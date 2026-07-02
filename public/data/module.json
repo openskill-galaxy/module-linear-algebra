@@ -1,0 +1,40 @@
+{
+  "id": "mod-linear-algebra",
+  "slug": "module-linear-algebra",
+  "title": "线性代数学习与题库训练",
+  "subtitle": "面向大学线性代数期末复习专升本考研基础与数据科学入门",
+  "description": "面向大学线性代数学习者工科学生专升本考研数学基础复习和数据科学入门学习者提供行列式矩阵向量组线性方程组特征值二次型线性空间基础和综合题训练的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "线性代数",
+    "行列式",
+    "矩阵",
+    "向量组",
+    "线性方程组",
+    "特征值",
+    "二次型"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "⊤",
+  "repoUrl": "https://github.com/openskill-galaxy/module-linear-algebra",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 123,
+    "knowledgePoints": 672,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 588
+  }
+}

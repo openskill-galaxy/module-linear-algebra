@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "la-route-01",
+    "slug": "7天线性代数入门",
+    "title": "7天线性代数入门",
+    "description": "7天线性代数入门：针对零基础入门的7天路线。",
+    "summary": "7天线性代数入门",
+    "targetUser": "零基础入门",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-02",
+    "slug": "14天矩阵与行列式",
+    "title": "14天矩阵与行列式",
+    "description": "14天矩阵与行列式：针对矩阵行列式专项的14天路线。",
+    "summary": "14天矩阵与行列式",
+    "targetUser": "矩阵行列式专项",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-03",
+    "slug": "21天线性方程组",
+    "title": "21天线性方程组",
+    "description": "21天线性方程组：针对方程组系统学习的21天路线。",
+    "summary": "21天线性方程组",
+    "targetUser": "方程组系统学习",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-04",
+    "slug": "30天线性代数基础",
+    "title": "30天线性代数基础",
+    "description": "30天线性代数基础：针对完整掌握线性代数的30天路线。",
+    "summary": "30天线性代数基础",
+    "targetUser": "完整掌握线性代数",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-05",
+    "slug": "45天线性代数全程",
+    "title": "45天线性代数全程",
+    "description": "45天线性代数全程：针对全面学习线性代数的45天路线。",
+    "summary": "45天线性代数全程",
+    "targetUser": "全面学习线性代数",
+    "durationDays": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-06",
+    "slug": "60天考研线代复习",
+    "title": "60天考研线代复习",
+    "description": "60天考研线代复习：针对考研线性代数复习的60天路线。",
+    "summary": "60天考研线代复习",
+    "targetUser": "考研线性代数复习",
+    "durationDays": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-07",
+    "slug": "90天线性代数进阶",
+    "title": "90天线性代数进阶",
+    "description": "90天线性代数进阶：针对线代与数据科学的90天路线。",
+    "summary": "90天线性代数进阶",
+    "targetUser": "线代与数据科学",
+    "durationDays": 90,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-35天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-08",
+    "slug": "行列式计算专项",
+    "title": "行列式计算专项",
+    "description": "行列式计算专项：针对行列式技巧的10天路线。",
+    "summary": "行列式计算专项",
+    "targetUser": "行列式技巧",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-09",
+    "slug": "矩阵运算专项",
+    "title": "矩阵运算专项",
+    "description": "矩阵运算专项：针对矩阵计算训练的10天路线。",
+    "summary": "矩阵运算专项",
+    "targetUser": "矩阵计算训练",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-10",
+    "slug": "矩阵求逆专项",
+    "title": "矩阵求逆专项",
+    "description": "矩阵求逆专项：针对逆矩阵方法的7天路线。",
+    "summary": "矩阵求逆专项",
+    "targetUser": "逆矩阵方法",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-11",
+    "slug": "矩阵的秩专项",
+    "title": "矩阵的秩专项",
+    "description": "矩阵的秩专项：针对秩的计算的5天路线。",
+    "summary": "矩阵的秩专项",
+    "targetUser": "秩的计算",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-12",
+    "slug": "线性方程组专项",
+    "title": "线性方程组专项",
+    "description": "线性方程组专项：针对方程组求解的14天路线。",
+    "summary": "线性方程组专项",
+    "targetUser": "方程组求解",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-13",
+    "slug": "向量组专项",
+    "title": "向量组专项",
+    "description": "向量组专项：针对向量组分析的10天路线。",
+    "summary": "向量组专项",
+    "targetUser": "向量组分析",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-14",
+    "slug": "特征值特征向量专项",
+    "title": "特征值特征向量专项",
+    "description": "特征值特征向量专项：针对特征值计算的10天路线。",
+    "summary": "特征值特征向量专项",
+    "targetUser": "特征值计算",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-15",
+    "slug": "相似对角化专项",
+    "title": "相似对角化专项",
+    "description": "相似对角化专项：针对对角化方法的7天路线。",
+    "summary": "相似对角化专项",
+    "targetUser": "对角化方法",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-16",
+    "slug": "二次型专项",
+    "title": "二次型专项",
+    "description": "二次型专项：针对二次型标准化的10天路线。",
+    "summary": "二次型专项",
+    "targetUser": "二次型标准化",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-17",
+    "slug": "正定性判断专项",
+    "title": "正定性判断专项",
+    "description": "正定性判断专项：针对正定性判定的5天路线。",
+    "summary": "正定性判断专项",
+    "targetUser": "正定性判定",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-18",
+    "slug": "线性代数证明题",
+    "title": "线性代数证明题",
+    "description": "线性代数证明题：针对证明方法的10天路线。",
+    "summary": "线性代数证明题",
+    "targetUser": "证明方法",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-19",
+    "slug": "行列式与矩阵复习",
+    "title": "行列式与矩阵复习",
+    "description": "行列式与矩阵复习：针对基础巩固的7天路线。",
+    "summary": "行列式与矩阵复习",
+    "targetUser": "基础巩固",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-20",
+    "slug": "方程组与向量复习",
+    "title": "方程组与向量复习",
+    "description": "方程组与向量复习：针对系统梳理的7天路线。",
+    "summary": "方程组与向量复习",
+    "targetUser": "系统梳理",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-21",
+    "slug": "特征值复习",
+    "title": "特征值复习",
+    "description": "特征值复习：针对特征值梳理的5天路线。",
+    "summary": "特征值复习",
+    "targetUser": "特征值梳理",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-22",
+    "slug": "二次型复习",
+    "title": "二次型复习",
+    "description": "二次型复习：针对二次型梳理的5天路线。",
+    "summary": "二次型复习",
+    "targetUser": "二次型梳理",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-23",
+    "slug": "综合计算复习",
+    "title": "综合计算复习",
+    "description": "综合计算复习：针对综合训练的7天路线。",
+    "summary": "综合计算复习",
+    "targetUser": "综合训练",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-24",
+    "slug": "易错题攻克路线",
+    "title": "易错题攻克路线",
+    "description": "易错题攻克路线：针对错题纠正的7天路线。",
+    "summary": "易错题攻克路线",
+    "targetUser": "错题纠正",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-25",
+    "slug": "考前突击路线",
+    "title": "考前突击路线",
+    "description": "考前突击路线：针对考前冲刺的3天路线。",
+    "summary": "考前突击路线",
+    "targetUser": "考前冲刺",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-26",
+    "slug": "专升本线代冲刺",
+    "title": "专升本线代冲刺",
+    "description": "专升本线代冲刺：针对专升本复习的30天路线。",
+    "summary": "专升本线代冲刺",
+    "targetUser": "专升本复习",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-27",
+    "slug": "考研线代大题专项",
+    "title": "考研线代大题专项",
+    "description": "考研线代大题专项：针对大题训练的14天路线。",
+    "summary": "考研线代大题专项",
+    "targetUser": "大题训练",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-28",
+    "slug": "线性代数解题技巧",
+    "title": "线性代数解题技巧",
+    "description": "线性代数解题技巧：针对技巧提升的10天路线。",
+    "summary": "线性代数解题技巧",
+    "targetUser": "技巧提升",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-29",
+    "slug": "矩阵分解专题",
+    "title": "矩阵分解专题",
+    "description": "矩阵分解专题：针对矩阵分解的5天路线。",
+    "summary": "矩阵分解专题",
+    "targetUser": "矩阵分解",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-30",
+    "slug": "正交变换专题",
+    "title": "正交变换专题",
+    "description": "正交变换专题：针对正交化方法的5天路线。",
+    "summary": "正交变换专题",
+    "targetUser": "正交化方法",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-31",
+    "slug": "线性空间专题",
+    "title": "线性空间专题",
+    "description": "线性空间专题：针对空间理论的5天路线。",
+    "summary": "线性空间专题",
+    "targetUser": "空间理论",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-32",
+    "slug": "线性代数应用题",
+    "title": "线性代数应用题",
+    "description": "线性代数应用题：针对应用训练的7天路线。",
+    "summary": "线性代数应用题",
+    "targetUser": "应用训练",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-33",
+    "slug": "数据科学线代基础",
+    "title": "数据科学线代基础",
+    "description": "数据科学线代基础：针对数据科学线代的14天路线。",
+    "summary": "数据科学线代基础",
+    "targetUser": "数据科学线代",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-34",
+    "slug": "数值线性代数入门",
+    "title": "数值线性代数入门",
+    "description": "数值线性代数入门：针对数值方法的10天路线。",
+    "summary": "数值线性代数入门",
+    "targetUser": "数值方法",
+    "durationDays": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-10天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-10天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-10天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-10天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  },
+  {
+    "id": "la-route-35",
+    "slug": "线性代数大总结",
+    "title": "线性代数大总结",
+    "description": "线性代数大总结：针对全面总结的5天路线。",
+    "summary": "线性代数大总结",
+    "targetUser": "全面总结",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习线性代数入门与学习方法",
+        "courseId": "la-course-01",
+        "lessonId": "la-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习行列式基础",
+        "courseId": "la-course-02",
+        "lessonId": "la-lesson-007"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习行列式计算方法",
+        "courseId": "la-course-03",
+        "lessonId": "la-lesson-015"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习矩阵基础与矩阵运算",
+        "courseId": "la-course-04",
+        "lessonId": "la-lesson-023"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习逆矩阵与初等变换",
+        "courseId": "la-course-05",
+        "lessonId": "la-lesson-033"
+      }
+    ],
+    "recommendedCourseIds": [
+      "la-course-01",
+      "la-course-02",
+      "la-course-03",
+      "la-course-04",
+      "la-course-05"
+    ],
+    "recommendedLessonIds": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006",
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握核心概念",
+      "能独立完成计算",
+      "理解几何意义",
+      "具备解题能力"
+    ]
+  }
+]
