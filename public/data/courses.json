@@ -27,7 +27,16 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-001",
+      "la-lesson-002",
+      "la-lesson-003",
+      "la-lesson-004",
+      "la-lesson-005",
+      "la-lesson-006"
+    ],
+    "summary": "了解线性代数的学科体系、核心思想、几何意义与学习方法。"
   },
   {
     "id": "la-course-02",
@@ -59,7 +68,18 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-007",
+      "la-lesson-008",
+      "la-lesson-009",
+      "la-lesson-010",
+      "la-lesson-011",
+      "la-lesson-012",
+      "la-lesson-013",
+      "la-lesson-014"
+    ],
+    "summary": "行列式定义、二阶三阶行列式的对角线法、行列式的性质与基本计算。"
   },
   {
     "id": "la-course-03",
@@ -91,7 +111,18 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-015",
+      "la-lesson-016",
+      "la-lesson-017",
+      "la-lesson-018",
+      "la-lesson-019",
+      "la-lesson-020",
+      "la-lesson-021",
+      "la-lesson-022"
+    ],
+    "summary": "行列式按行(列)展开、余子式与代数余子式、范德蒙行列式、克拉默法则。"
   },
   {
     "id": "la-course-04",
@@ -125,7 +156,20 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-023",
+      "la-lesson-024",
+      "la-lesson-025",
+      "la-lesson-026",
+      "la-lesson-027",
+      "la-lesson-028",
+      "la-lesson-029",
+      "la-lesson-030",
+      "la-lesson-031",
+      "la-lesson-032"
+    ],
+    "summary": "矩阵的定义与类型、矩阵加减法、数乘、矩阵乘法、转置、对称矩阵、方阵的行列式。"
   },
   {
     "id": "la-course-05",
@@ -158,7 +202,19 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-033",
+      "la-lesson-034",
+      "la-lesson-035",
+      "la-lesson-036",
+      "la-lesson-037",
+      "la-lesson-038",
+      "la-lesson-039",
+      "la-lesson-040",
+      "la-lesson-041"
+    ],
+    "summary": "逆矩阵的定义与性质、伴随矩阵法求逆、初等变换与初等矩阵、行阶梯形矩阵。"
   },
   {
     "id": "la-course-06",
@@ -188,7 +244,16 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-042",
+      "la-lesson-043",
+      "la-lesson-044",
+      "la-lesson-045",
+      "la-lesson-046",
+      "la-lesson-047"
+    ],
+    "summary": "秩的定义与求法、初等变换求秩、秩的性质、满秩矩阵与降秩矩阵。"
   },
   {
     "id": "la-course-07",
@@ -220,7 +285,18 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-048",
+      "la-lesson-049",
+      "la-lesson-050",
+      "la-lesson-051",
+      "la-lesson-052",
+      "la-lesson-053",
+      "la-lesson-054",
+      "la-lesson-055"
+    ],
+    "summary": "线性方程组的消元法、齐次与非齐次方程组、基础解系与通解、解的结构。"
   },
   {
     "id": "la-course-08",
@@ -255,7 +331,21 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-056",
+      "la-lesson-057",
+      "la-lesson-058",
+      "la-lesson-059",
+      "la-lesson-060",
+      "la-lesson-061",
+      "la-lesson-062",
+      "la-lesson-063",
+      "la-lesson-064",
+      "la-lesson-065",
+      "la-lesson-066"
+    ],
+    "summary": "向量及其运算、线性组合与线性表示、线性相关与线性无关、极大无关组与秩。"
   },
   {
     "id": "la-course-09",
@@ -287,7 +377,18 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-067",
+      "la-lesson-068",
+      "la-lesson-069",
+      "la-lesson-070",
+      "la-lesson-071",
+      "la-lesson-072",
+      "la-lesson-073",
+      "la-lesson-074"
+    ],
+    "summary": "向量空间的定义、子空间、基与维数、坐标、基变换与过渡矩阵。"
   },
   {
     "id": "la-course-10",
@@ -320,7 +421,19 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-075",
+      "la-lesson-076",
+      "la-lesson-077",
+      "la-lesson-078",
+      "la-lesson-079",
+      "la-lesson-080",
+      "la-lesson-081",
+      "la-lesson-082",
+      "la-lesson-083"
+    ],
+    "summary": "特征值与特征向量的定义与计算、特征多项式、特征值的性质、谱分解基础。"
   },
   {
     "id": "la-course-11",
@@ -354,7 +467,20 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-084",
+      "la-lesson-085",
+      "la-lesson-086",
+      "la-lesson-087",
+      "la-lesson-088",
+      "la-lesson-089",
+      "la-lesson-090",
+      "la-lesson-091",
+      "la-lesson-092",
+      "la-lesson-093"
+    ],
+    "summary": "相似矩阵的概念、矩阵可对角化的条件、实对称矩阵的对角化、正交变换。"
   },
   {
     "id": "la-course-12",
@@ -388,7 +514,20 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-094",
+      "la-lesson-095",
+      "la-lesson-096",
+      "la-lesson-097",
+      "la-lesson-098",
+      "la-lesson-099",
+      "la-lesson-100",
+      "la-lesson-101",
+      "la-lesson-102",
+      "la-lesson-103"
+    ],
+    "summary": "二次型的矩阵表示、合同变换、标准形与规范形、正定矩阵的判定。"
   },
   {
     "id": "la-course-13",
@@ -422,7 +561,20 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-104",
+      "la-lesson-105",
+      "la-lesson-106",
+      "la-lesson-107",
+      "la-lesson-108",
+      "la-lesson-109",
+      "la-lesson-110",
+      "la-lesson-111",
+      "la-lesson-112",
+      "la-lesson-113"
+    ],
+    "summary": "行列式综合计算、矩阵运算综合、方程组与向量综合、特征值综合、二次型综合。"
   },
   {
     "id": "la-course-14",
@@ -456,6 +608,19 @@
       "理解几何意义",
       "具备解题能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "la-lesson-114",
+      "la-lesson-115",
+      "la-lesson-116",
+      "la-lesson-117",
+      "la-lesson-118",
+      "la-lesson-119",
+      "la-lesson-120",
+      "la-lesson-121",
+      "la-lesson-122",
+      "la-lesson-123"
+    ],
+    "summary": "系统复习规划、重点题型突破、知识点串联、典型题精讲、模拟测试。"
   }
 ]

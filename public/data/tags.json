@@ -5,7 +5,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性代数"
   },
   {
     "id": "la-tag-002",
@@ -13,7 +14,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式"
   },
   {
     "id": "la-tag-003",
@@ -21,7 +23,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵"
   },
   {
     "id": "la-tag-004",
@@ -29,7 +32,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量组"
   },
   {
     "id": "la-tag-005",
@@ -37,7 +41,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性方程组"
   },
   {
     "id": "la-tag-006",
@@ -45,7 +50,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征值"
   },
   {
     "id": "la-tag-007",
@@ -53,7 +59,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征向量"
   },
   {
     "id": "la-tag-008",
@@ -61,7 +68,8 @@
     "category": "线性代数",
     "description": "线性代数标签：二次型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二次型"
   },
   {
     "id": "la-tag-009",
@@ -69,7 +77,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正定性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正定性"
   },
   {
     "id": "la-tag-010",
@@ -77,7 +86,8 @@
     "category": "线性代数",
     "description": "线性代数标签：相似矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相似矩阵"
   },
   {
     "id": "la-tag-011",
@@ -85,7 +95,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对角化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对角化"
   },
   {
     "id": "la-tag-012",
@@ -93,7 +104,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行列式定义",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式定义"
   },
   {
     "id": "la-tag-013",
@@ -101,7 +113,8 @@
     "category": "线性代数",
     "description": "线性代数标签：二阶行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二阶行列式"
   },
   {
     "id": "la-tag-014",
@@ -109,7 +122,8 @@
     "category": "线性代数",
     "description": "线性代数标签：三阶行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "三阶行列式"
   },
   {
     "id": "la-tag-015",
@@ -117,7 +131,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高阶行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高阶行列式"
   },
   {
     "id": "la-tag-016",
@@ -125,7 +140,8 @@
     "category": "线性代数",
     "description": "线性代数标签：余子式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "余子式"
   },
   {
     "id": "la-tag-017",
@@ -133,7 +149,8 @@
     "category": "线性代数",
     "description": "线性代数标签：代数余子式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数余子式"
   },
   {
     "id": "la-tag-018",
@@ -141,7 +158,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行列式展开",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式展开"
   },
   {
     "id": "la-tag-019",
@@ -149,7 +167,8 @@
     "category": "线性代数",
     "description": "线性代数标签：克拉默法则",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "克拉默法则"
   },
   {
     "id": "la-tag-020",
@@ -157,7 +176,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行列式性质",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式性质"
   },
   {
     "id": "la-tag-021",
@@ -165,7 +185,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行列式计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行列式计算"
   },
   {
     "id": "la-tag-022",
@@ -173,7 +194,8 @@
     "category": "线性代数",
     "description": "线性代数标签：范德蒙行列式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范德蒙行列式"
   },
   {
     "id": "la-tag-023",
@@ -181,7 +203,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵定义",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵定义"
   },
   {
     "id": "la-tag-024",
@@ -189,7 +212,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵加法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵加法"
   },
   {
     "id": "la-tag-025",
@@ -197,7 +221,8 @@
     "category": "线性代数",
     "description": "线性代数标签：数乘矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数乘矩阵"
   },
   {
     "id": "la-tag-026",
@@ -205,7 +230,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵乘法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵乘法"
   },
   {
     "id": "la-tag-027",
@@ -213,7 +239,8 @@
     "category": "线性代数",
     "description": "线性代数标签：转置矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "转置矩阵"
   },
   {
     "id": "la-tag-028",
@@ -221,7 +248,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对称矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对称矩阵"
   },
   {
     "id": "la-tag-029",
@@ -229,7 +257,8 @@
     "category": "线性代数",
     "description": "线性代数标签：反对称矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反对称矩阵"
   },
   {
     "id": "la-tag-030",
@@ -237,7 +266,8 @@
     "category": "线性代数",
     "description": "线性代数标签：单位矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单位矩阵"
   },
   {
     "id": "la-tag-031",
@@ -245,7 +275,8 @@
     "category": "线性代数",
     "description": "线性代数标签：零矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "零矩阵"
   },
   {
     "id": "la-tag-032",
@@ -253,7 +284,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对角矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对角矩阵"
   },
   {
     "id": "la-tag-033",
@@ -261,7 +293,8 @@
     "category": "线性代数",
     "description": "线性代数标签：数量矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数量矩阵"
   },
   {
     "id": "la-tag-034",
@@ -269,7 +302,8 @@
     "category": "线性代数",
     "description": "线性代数标签：三角矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "三角矩阵"
   },
   {
     "id": "la-tag-035",
@@ -277,7 +311,8 @@
     "category": "线性代数",
     "description": "线性代数标签：伴随矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伴随矩阵"
   },
   {
     "id": "la-tag-036",
@@ -285,7 +320,8 @@
     "category": "线性代数",
     "description": "线性代数标签：逆矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆矩阵"
   },
   {
     "id": "la-tag-037",
@@ -293,7 +329,8 @@
     "category": "线性代数",
     "description": "线性代数标签：可逆矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可逆矩阵"
   },
   {
     "id": "la-tag-038",
@@ -301,7 +338,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异矩阵"
   },
   {
     "id": "la-tag-039",
@@ -309,7 +347,8 @@
     "category": "线性代数",
     "description": "线性代数标签：初等变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "初等变换"
   },
   {
     "id": "la-tag-040",
@@ -317,7 +356,8 @@
     "category": "线性代数",
     "description": "线性代数标签：初等矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "初等矩阵"
   },
   {
     "id": "la-tag-041",
@@ -325,7 +365,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行阶梯形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行阶梯形"
   },
   {
     "id": "la-tag-042",
@@ -333,7 +374,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最简形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最简形"
   },
   {
     "id": "la-tag-043",
@@ -341,7 +383,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵等价",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵等价"
   },
   {
     "id": "la-tag-044",
@@ -349,7 +392,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵的秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵的秩"
   },
   {
     "id": "la-tag-045",
@@ -357,7 +401,8 @@
     "category": "线性代数",
     "description": "线性代数标签：满秩矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "满秩矩阵"
   },
   {
     "id": "la-tag-046",
@@ -365,7 +410,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性方程组"
   },
   {
     "id": "la-tag-047",
@@ -373,7 +419,8 @@
     "category": "线性代数",
     "description": "线性代数标签：齐次方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "齐次方程组"
   },
   {
     "id": "la-tag-048",
@@ -381,7 +428,8 @@
     "category": "线性代数",
     "description": "线性代数标签：非齐次方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非齐次方程组"
   },
   {
     "id": "la-tag-049",
@@ -389,7 +437,8 @@
     "category": "线性代数",
     "description": "线性代数标签：系数矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "系数矩阵"
   },
   {
     "id": "la-tag-050",
@@ -397,7 +446,8 @@
     "category": "线性代数",
     "description": "线性代数标签：增广矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "增广矩阵"
   },
   {
     "id": "la-tag-051",
@@ -405,7 +455,8 @@
     "category": "线性代数",
     "description": "线性代数标签：基础解系",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基础解系"
   },
   {
     "id": "la-tag-052",
@@ -413,7 +464,8 @@
     "category": "线性代数",
     "description": "线性代数标签：通解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "通解"
   },
   {
     "id": "la-tag-053",
@@ -421,7 +473,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特解"
   },
   {
     "id": "la-tag-054",
@@ -429,7 +482,8 @@
     "category": "线性代数",
     "description": "线性代数标签：自由变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自由变量"
   },
   {
     "id": "la-tag-055",
@@ -437,7 +491,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量"
   },
   {
     "id": "la-tag-056",
@@ -445,7 +500,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性组合",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性组合"
   },
   {
     "id": "la-tag-057",
@@ -453,7 +509,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性表示",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性表示"
   },
   {
     "id": "la-tag-058",
@@ -461,7 +518,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性相关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性相关"
   },
   {
     "id": "la-tag-059",
@@ -469,7 +527,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性无关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性无关"
   },
   {
     "id": "la-tag-060",
@@ -477,7 +536,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极大无关组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极大无关组"
   },
   {
     "id": "la-tag-061",
@@ -485,7 +545,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量组的秩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量组的秩"
   },
   {
     "id": "la-tag-062",
@@ -493,7 +554,8 @@
     "category": "线性代数",
     "description": "线性代数标签：等价向量组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等价向量组"
   },
   {
     "id": "la-tag-063",
@@ -501,7 +563,8 @@
     "category": "线性代数",
     "description": "线性代数标签：基与维数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基与维数"
   },
   {
     "id": "la-tag-064",
@@ -509,7 +572,8 @@
     "category": "线性代数",
     "description": "线性代数标签：基变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基变换"
   },
   {
     "id": "la-tag-065",
@@ -517,7 +581,8 @@
     "category": "线性代数",
     "description": "线性代数标签：坐标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "坐标"
   },
   {
     "id": "la-tag-066",
@@ -525,7 +590,8 @@
     "category": "线性代数",
     "description": "线性代数标签：过渡矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "过渡矩阵"
   },
   {
     "id": "la-tag-067",
@@ -533,7 +599,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征值"
   },
   {
     "id": "la-tag-068",
@@ -541,7 +608,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征多项式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征多项式"
   },
   {
     "id": "la-tag-069",
@@ -549,7 +617,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征空间"
   },
   {
     "id": "la-tag-070",
@@ -557,7 +626,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征方程"
   },
   {
     "id": "la-tag-071",
@@ -565,7 +635,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱"
   },
   {
     "id": "la-tag-072",
@@ -573,7 +644,8 @@
     "category": "线性代数",
     "description": "线性代数标签：相似变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相似变换"
   },
   {
     "id": "la-tag-073",
@@ -581,7 +653,8 @@
     "category": "线性代数",
     "description": "线性代数标签：相似对角化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "相似对角化"
   },
   {
     "id": "la-tag-074",
@@ -589,7 +662,8 @@
     "category": "线性代数",
     "description": "线性代数标签：可对角化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "可对角化"
   },
   {
     "id": "la-tag-075",
@@ -597,7 +671,8 @@
     "category": "线性代数",
     "description": "线性代数标签：实对称矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "实对称矩阵"
   },
   {
     "id": "la-tag-076",
@@ -605,7 +680,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交矩阵"
   },
   {
     "id": "la-tag-077",
@@ -613,7 +689,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交变换"
   },
   {
     "id": "la-tag-078",
@@ -621,7 +698,8 @@
     "category": "线性代数",
     "description": "线性代数标签：施密特正交化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "施密特正交化"
   },
   {
     "id": "la-tag-079",
@@ -629,7 +707,8 @@
     "category": "线性代数",
     "description": "线性代数标签：内积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "内积"
   },
   {
     "id": "la-tag-080",
@@ -637,7 +716,8 @@
     "category": "线性代数",
     "description": "线性代数标签：欧几里得空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "欧几里得空间"
   },
   {
     "id": "la-tag-081",
@@ -645,7 +725,8 @@
     "category": "线性代数",
     "description": "线性代数标签：标准正交基",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "标准正交基"
   },
   {
     "id": "la-tag-082",
@@ -653,7 +734,8 @@
     "category": "线性代数",
     "description": "线性代数标签：二次型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二次型"
   },
   {
     "id": "la-tag-083",
@@ -661,7 +743,8 @@
     "category": "线性代数",
     "description": "线性代数标签：二次型矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二次型矩阵"
   },
   {
     "id": "la-tag-084",
@@ -669,7 +752,8 @@
     "category": "线性代数",
     "description": "线性代数标签：合同变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "合同变换"
   },
   {
     "id": "la-tag-085",
@@ -677,7 +761,8 @@
     "category": "线性代数",
     "description": "线性代数标签：标准形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "标准形"
   },
   {
     "id": "la-tag-086",
@@ -685,7 +770,8 @@
     "category": "线性代数",
     "description": "线性代数标签：规范形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "规范形"
   },
   {
     "id": "la-tag-087",
@@ -693,7 +779,8 @@
     "category": "线性代数",
     "description": "线性代数标签：惯性定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "惯性定理"
   },
   {
     "id": "la-tag-088",
@@ -701,7 +788,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正定矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正定矩阵"
   },
   {
     "id": "la-tag-089",
@@ -709,7 +797,8 @@
     "category": "线性代数",
     "description": "线性代数标签：负定矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "负定矩阵"
   },
   {
     "id": "la-tag-090",
@@ -717,7 +806,8 @@
     "category": "线性代数",
     "description": "线性代数标签：半正定",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "半正定"
   },
   {
     "id": "la-tag-091",
@@ -725,7 +815,8 @@
     "category": "线性代数",
     "description": "线性代数标签：半负定",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "半负定"
   },
   {
     "id": "la-tag-092",
@@ -733,7 +824,8 @@
     "category": "线性代数",
     "description": "线性代数标签：不定矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不定矩阵"
   },
   {
     "id": "la-tag-093",
@@ -741,7 +833,8 @@
     "category": "线性代数",
     "description": "线性代数标签：顺序主子式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "顺序主子式"
   },
   {
     "id": "la-tag-094",
@@ -749,7 +842,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性变换"
   },
   {
     "id": "la-tag-095",
@@ -757,7 +851,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性映射"
   },
   {
     "id": "la-tag-096",
@@ -765,7 +860,8 @@
     "category": "线性代数",
     "description": "线性代数标签：核",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "核"
   },
   {
     "id": "la-tag-097",
@@ -773,7 +869,8 @@
     "category": "线性代数",
     "description": "线性代数标签：像",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "像"
   },
   {
     "id": "la-tag-098",
@@ -781,7 +878,8 @@
     "category": "线性代数",
     "description": "线性代数标签：维数公式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "维数公式"
   },
   {
     "id": "la-tag-099",
@@ -789,7 +887,8 @@
     "category": "线性代数",
     "description": "线性代数标签：不变子空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "不变子空间"
   },
   {
     "id": "la-tag-100",
@@ -797,7 +896,8 @@
     "category": "线性代数",
     "description": "线性代数标签：若尔当标准形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "若尔当标准形"
   },
   {
     "id": "la-tag-101",
@@ -805,7 +905,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小多项式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小多项式"
   },
   {
     "id": "la-tag-102",
@@ -813,7 +914,8 @@
     "category": "线性代数",
     "description": "线性代数标签：哈密顿凯莱定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈密顿凯莱定理"
   },
   {
     "id": "la-tag-103",
@@ -821,7 +923,8 @@
     "category": "线性代数",
     "description": "线性代数标签：酉矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "酉矩阵"
   },
   {
     "id": "la-tag-104",
@@ -829,7 +932,8 @@
     "category": "线性代数",
     "description": "线性代数标签：埃尔米特矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "埃尔米特矩阵"
   },
   {
     "id": "la-tag-105",
@@ -837,7 +941,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正规矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正规矩阵"
   },
   {
     "id": "la-tag-106",
@@ -845,7 +950,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异值分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异值分解"
   },
   {
     "id": "la-tag-107",
@@ -853,7 +959,8 @@
     "category": "线性代数",
     "description": "线性代数标签：伪逆",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伪逆"
   },
   {
     "id": "la-tag-108",
@@ -861,7 +968,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性空间"
   },
   {
     "id": "la-tag-109",
@@ -869,7 +977,8 @@
     "category": "线性代数",
     "description": "线性代数标签：子空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子空间"
   },
   {
     "id": "la-tag-110",
@@ -877,7 +986,8 @@
     "category": "线性代数",
     "description": "线性代数标签：直和",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "直和"
   },
   {
     "id": "la-tag-111",
@@ -885,7 +995,8 @@
     "category": "线性代数",
     "description": "线性代数标签：同构",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "同构"
   },
   {
     "id": "la-tag-112",
@@ -893,7 +1004,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性泛函",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性泛函"
   },
   {
     "id": "la-tag-113",
@@ -901,7 +1013,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对偶空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对偶空间"
   },
   {
     "id": "la-tag-114",
@@ -909,7 +1022,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双线性函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双线性函数"
   },
   {
     "id": "la-tag-115",
@@ -917,7 +1031,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双曲空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双曲空间"
   },
   {
     "id": "la-tag-116",
@@ -925,7 +1040,8 @@
     "category": "线性代数",
     "description": "线性代数标签：辛空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "辛空间"
   },
   {
     "id": "la-tag-117",
@@ -933,7 +1049,8 @@
     "category": "线性代数",
     "description": "线性代数标签：辛矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "辛矩阵"
   },
   {
     "id": "la-tag-118",
@@ -941,7 +1058,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交空间"
   },
   {
     "id": "la-tag-119",
@@ -949,7 +1067,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交补",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交补"
   },
   {
     "id": "la-tag-120",
@@ -957,7 +1076,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影"
   },
   {
     "id": "la-tag-121",
@@ -965,7 +1085,8 @@
     "category": "线性代数",
     "description": "线性代数标签：反射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反射"
   },
   {
     "id": "la-tag-122",
@@ -973,7 +1094,8 @@
     "category": "线性代数",
     "description": "线性代数标签：旋转",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "旋转"
   },
   {
     "id": "la-tag-123",
@@ -981,7 +1103,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉伸",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉伸"
   },
   {
     "id": "la-tag-124",
@@ -989,7 +1112,8 @@
     "category": "线性代数",
     "description": "线性代数标签：压缩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "压缩"
   },
   {
     "id": "la-tag-125",
@@ -997,7 +1121,8 @@
     "category": "线性代数",
     "description": "线性代数标签：剪切",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "剪切"
   },
   {
     "id": "la-tag-126",
@@ -1005,7 +1130,8 @@
     "category": "线性代数",
     "description": "线性代数标签：仿射变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "仿射变换"
   },
   {
     "id": "la-tag-127",
@@ -1013,7 +1139,8 @@
     "category": "线性代数",
     "description": "线性代数标签：射影变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "射影变换"
   },
   {
     "id": "la-tag-128",
@@ -1021,7 +1148,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性代数应用",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性代数应用"
   },
   {
     "id": "la-tag-129",
@@ -1029,7 +1157,8 @@
     "category": "线性代数",
     "description": "线性代数标签：马尔可夫矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "马尔可夫矩阵"
   },
   {
     "id": "la-tag-130",
@@ -1037,7 +1166,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图论"
   },
   {
     "id": "la-tag-131",
@@ -1045,7 +1175,8 @@
     "category": "线性代数",
     "description": "线性代数标签：邻接矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "邻接矩阵"
   },
   {
     "id": "la-tag-132",
@@ -1053,7 +1184,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉普拉斯矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉普拉斯矩阵"
   },
   {
     "id": "la-tag-133",
@@ -1061,7 +1193,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性规划"
   },
   {
     "id": "la-tag-134",
@@ -1069,7 +1202,8 @@
     "category": "线性代数",
     "description": "线性代数标签：方程组求解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "方程组求解"
   },
   {
     "id": "la-tag-135",
@@ -1077,7 +1211,8 @@
     "category": "线性代数",
     "description": "线性代数标签：数值线性代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数值线性代数"
   },
   {
     "id": "la-tag-136",
@@ -1085,7 +1220,8 @@
     "category": "线性代数",
     "description": "线性代数标签：LU分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lu分解"
   },
   {
     "id": "la-tag-137",
@@ -1093,7 +1229,8 @@
     "category": "线性代数",
     "description": "线性代数标签：QR分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "qr分解"
   },
   {
     "id": "la-tag-138",
@@ -1101,7 +1238,8 @@
     "category": "线性代数",
     "description": "线性代数标签：楚列斯基分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "楚列斯基分解"
   },
   {
     "id": "la-tag-139",
@@ -1109,7 +1247,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征值算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征值算法"
   },
   {
     "id": "la-tag-140",
@@ -1117,7 +1256,8 @@
     "category": "线性代数",
     "description": "线性代数标签：幂法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "幂法"
   },
   {
     "id": "la-tag-141",
@@ -1125,7 +1265,8 @@
     "category": "线性代数",
     "description": "线性代数标签：逆幂法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逆幂法"
   },
   {
     "id": "la-tag-142",
@@ -1133,7 +1274,8 @@
     "category": "线性代数",
     "description": "线性代数标签：QR算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "qr算法"
   },
   {
     "id": "la-tag-143",
@@ -1141,7 +1283,8 @@
     "category": "线性代数",
     "description": "线性代数标签：雅可比旋转",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雅可比旋转"
   },
   {
     "id": "la-tag-144",
@@ -1149,7 +1292,8 @@
     "category": "线性代数",
     "description": "线性代数标签：吉文斯旋转",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "吉文斯旋转"
   },
   {
     "id": "la-tag-145",
@@ -1157,7 +1301,8 @@
     "category": "线性代数",
     "description": "线性代数标签：豪斯霍尔德变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "豪斯霍尔德变换"
   },
   {
     "id": "la-tag-146",
@@ -1165,7 +1310,8 @@
     "category": "线性代数",
     "description": "线性代数标签：条件数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件数"
   },
   {
     "id": "la-tag-147",
@@ -1173,7 +1319,8 @@
     "category": "线性代数",
     "description": "线性代数标签：病态",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "病态"
   },
   {
     "id": "la-tag-148",
@@ -1181,7 +1328,8 @@
     "category": "线性代数",
     "description": "线性代数标签：良态",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "良态"
   },
   {
     "id": "la-tag-149",
@@ -1189,7 +1337,8 @@
     "category": "线性代数",
     "description": "线性代数标签：稳定",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稳定"
   },
   {
     "id": "la-tag-150",
@@ -1197,7 +1346,8 @@
     "category": "线性代数",
     "description": "线性代数标签：数值稳定性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数值稳定性"
   },
   {
     "id": "la-tag-151",
@@ -1205,7 +1355,8 @@
     "category": "线性代数",
     "description": "线性代数标签：消元法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "消元法"
   },
   {
     "id": "la-tag-152",
@@ -1213,7 +1364,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高斯消元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高斯消元"
   },
   {
     "id": "la-tag-153",
@@ -1221,7 +1373,8 @@
     "category": "线性代数",
     "description": "线性代数标签：列主元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "列主元"
   },
   {
     "id": "la-tag-154",
@@ -1229,7 +1382,8 @@
     "category": "线性代数",
     "description": "线性代数标签：全主元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全主元"
   },
   {
     "id": "la-tag-155",
@@ -1237,7 +1391,8 @@
     "category": "线性代数",
     "description": "线性代数标签：回代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "回代"
   },
   {
     "id": "la-tag-156",
@@ -1245,7 +1400,8 @@
     "category": "线性代数",
     "description": "线性代数标签：追赶法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "追赶法"
   },
   {
     "id": "la-tag-157",
@@ -1253,7 +1409,8 @@
     "category": "线性代数",
     "description": "线性代数标签：带状矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "带状矩阵"
   },
   {
     "id": "la-tag-158",
@@ -1261,7 +1418,8 @@
     "category": "线性代数",
     "description": "线性代数标签：稀疏矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稀疏矩阵"
   },
   {
     "id": "la-tag-159",
@@ -1269,7 +1427,8 @@
     "category": "线性代数",
     "description": "线性代数标签：压缩存储",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "压缩存储"
   },
   {
     "id": "la-tag-160",
@@ -1277,7 +1436,8 @@
     "category": "线性代数",
     "description": "线性代数标签：迭代法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迭代法"
   },
   {
     "id": "la-tag-161",
@@ -1285,7 +1445,8 @@
     "category": "线性代数",
     "description": "线性代数标签：雅可比迭代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雅可比迭代"
   },
   {
     "id": "la-tag-162",
@@ -1293,7 +1454,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高斯赛德尔",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高斯赛德尔"
   },
   {
     "id": "la-tag-163",
@@ -1301,7 +1463,8 @@
     "category": "线性代数",
     "description": "线性代数标签：SOR共轭梯度法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sor共轭梯度法"
   },
   {
     "id": "la-tag-164",
@@ -1309,7 +1472,8 @@
     "category": "线性代数",
     "description": "线性代数标签：预处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "预处理"
   },
   {
     "id": "la-tag-165",
@@ -1317,7 +1481,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱半径",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱半径"
   },
   {
     "id": "la-tag-166",
@@ -1325,7 +1490,8 @@
     "category": "线性代数",
     "description": "线性代数标签：收敛性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "收敛性"
   },
   {
     "id": "la-tag-167",
@@ -1333,7 +1499,8 @@
     "category": "线性代数",
     "description": "线性代数标签：位移",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "位移"
   },
   {
     "id": "la-tag-168",
@@ -1341,7 +1508,8 @@
     "category": "线性代数",
     "description": "线性代数标签：反幂法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反幂法"
   },
   {
     "id": "la-tag-169",
@@ -1349,7 +1517,8 @@
     "category": "线性代数",
     "description": "线性代数标签：瑞利商",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "瑞利商"
   },
   {
     "id": "la-tag-170",
@@ -1357,7 +1526,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交迭代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交迭代"
   },
   {
     "id": "la-tag-171",
@@ -1365,7 +1535,8 @@
     "category": "线性代数",
     "description": "线性代数标签：子空间迭代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子空间迭代"
   },
   {
     "id": "la-tag-172",
@@ -1373,7 +1544,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵函数"
   },
   {
     "id": "la-tag-173",
@@ -1381,7 +1553,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵指数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵指数"
   },
   {
     "id": "la-tag-174",
@@ -1389,7 +1562,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵对数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵对数"
   },
   {
     "id": "la-tag-175",
@@ -1397,7 +1571,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵平方根",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵平方根"
   },
   {
     "id": "la-tag-176",
@@ -1405,7 +1580,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵分解"
   },
   {
     "id": "la-tag-177",
@@ -1413,7 +1589,8 @@
     "category": "线性代数",
     "description": "线性代数标签：秩分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "秩分解"
   },
   {
     "id": "la-tag-178",
@@ -1421,7 +1598,8 @@
     "category": "线性代数",
     "description": "线性代数标签：满秩分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "满秩分解"
   },
   {
     "id": "la-tag-179",
@@ -1429,7 +1607,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱分解"
   },
   {
     "id": "la-tag-180",
@@ -1437,7 +1616,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极分解"
   },
   {
     "id": "la-tag-181",
@@ -1445,7 +1625,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵不等式"
   },
   {
     "id": "la-tag-182",
@@ -1453,7 +1634,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵范数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵范数"
   },
   {
     "id": "la-tag-183",
@@ -1461,7 +1643,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量范数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量范数"
   },
   {
     "id": "la-tag-184",
@@ -1469,7 +1652,8 @@
     "category": "线性代数",
     "description": "线性代数标签：算子范数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "算子范数"
   },
   {
     "id": "la-tag-185",
@@ -1477,7 +1661,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱范数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱范数"
   },
   {
     "id": "la-tag-186",
@@ -1485,7 +1670,8 @@
     "category": "线性代数",
     "description": "线性代数标签：条件数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "条件数"
   },
   {
     "id": "la-tag-187",
@@ -1493,7 +1679,8 @@
     "category": "线性代数",
     "description": "线性代数标签：扰动分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "扰动分析"
   },
   {
     "id": "la-tag-188",
@@ -1501,7 +1688,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向前误差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向前误差"
   },
   {
     "id": "la-tag-189",
@@ -1509,7 +1697,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向后误差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向后误差"
   },
   {
     "id": "la-tag-190",
@@ -1517,7 +1706,8 @@
     "category": "线性代数",
     "description": "线性代数标签：病态方程组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "病态方程组"
   },
   {
     "id": "la-tag-191",
@@ -1525,7 +1715,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异摄动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异摄动"
   },
   {
     "id": "la-tag-192",
@@ -1533,7 +1724,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵微商",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵微商"
   },
   {
     "id": "la-tag-193",
@@ -1541,7 +1733,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵导数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵导数"
   },
   {
     "id": "la-tag-194",
@@ -1549,7 +1742,8 @@
     "category": "线性代数",
     "description": "线性代数标签：梯度矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "梯度矩阵"
   },
   {
     "id": "la-tag-195",
@@ -1557,7 +1751,8 @@
     "category": "线性代数",
     "description": "线性代数标签：海森矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "海森矩阵"
   },
   {
     "id": "la-tag-196",
@@ -1565,7 +1760,8 @@
     "category": "线性代数",
     "description": "线性代数标签：雅可比矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雅可比矩阵"
   },
   {
     "id": "la-tag-197",
@@ -1573,7 +1769,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵计算"
   },
   {
     "id": "la-tag-198",
@@ -1581,7 +1778,8 @@
     "category": "线性代数",
     "description": "线性代数标签：优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "优化"
   },
   {
     "id": "la-tag-199",
@@ -1589,7 +1787,8 @@
     "category": "线性代数",
     "description": "线性代数标签：梯度下降",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "梯度下降"
   },
   {
     "id": "la-tag-200",
@@ -1597,7 +1796,8 @@
     "category": "线性代数",
     "description": "线性代数标签：牛顿法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "牛顿法"
   },
   {
     "id": "la-tag-201",
@@ -1605,7 +1805,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拟牛顿法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拟牛顿法"
   },
   {
     "id": "la-tag-202",
@@ -1613,7 +1814,8 @@
     "category": "线性代数",
     "description": "线性代数标签：DFP",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "dfp"
   },
   {
     "id": "la-tag-203",
@@ -1621,7 +1823,8 @@
     "category": "线性代数",
     "description": "线性代数标签：BFGS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "bfgs"
   },
   {
     "id": "la-tag-204",
@@ -1629,7 +1832,8 @@
     "category": "线性代数",
     "description": "线性代数标签：LBFGS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lbfgs"
   },
   {
     "id": "la-tag-205",
@@ -1637,7 +1841,8 @@
     "category": "线性代数",
     "description": "线性代数标签：共轭方向",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共轭方向"
   },
   {
     "id": "la-tag-206",
@@ -1645,7 +1850,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线搜索",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线搜索"
   },
   {
     "id": "la-tag-207",
@@ -1653,7 +1859,8 @@
     "category": "线性代数",
     "description": "线性代数标签：信赖域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信赖域"
   },
   {
     "id": "la-tag-208",
@@ -1661,7 +1868,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小二乘",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小二乘"
   },
   {
     "id": "la-tag-209",
@@ -1669,7 +1877,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小范数解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小范数解"
   },
   {
     "id": "la-tag-210",
@@ -1677,7 +1886,8 @@
     "category": "线性代数",
     "description": "线性代数标签：岭回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "岭回归"
   },
   {
     "id": "la-tag-211",
@@ -1685,7 +1895,8 @@
     "category": "线性代数",
     "description": "线性代数标签：LASSO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lasso"
   },
   {
     "id": "la-tag-212",
@@ -1693,7 +1904,8 @@
     "category": "线性代数",
     "description": "线性代数标签：弹性网",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弹性网"
   },
   {
     "id": "la-tag-213",
@@ -1701,7 +1913,8 @@
     "category": "线性代数",
     "description": "线性代数标签：主成分分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主成分分析"
   },
   {
     "id": "la-tag-214",
@@ -1709,7 +1922,8 @@
     "category": "线性代数",
     "description": "线性代数标签：PCA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pca"
   },
   {
     "id": "la-tag-215",
@@ -1717,7 +1931,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异值分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异值分解"
   },
   {
     "id": "la-tag-216",
@@ -1725,7 +1940,8 @@
     "category": "线性代数",
     "description": "线性代数标签：SVD",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "svd"
   },
   {
     "id": "la-tag-217",
@@ -1733,7 +1949,8 @@
     "category": "线性代数",
     "description": "线性代数标签：非负矩阵分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非负矩阵分解"
   },
   {
     "id": "la-tag-218",
@@ -1741,7 +1958,8 @@
     "category": "线性代数",
     "description": "线性代数标签：NMF",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "nmf"
   },
   {
     "id": "la-tag-219",
@@ -1749,7 +1967,8 @@
     "category": "线性代数",
     "description": "线性代数标签：独立成分分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "独立成分分析"
   },
   {
     "id": "la-tag-220",
@@ -1757,7 +1976,8 @@
     "category": "线性代数",
     "description": "线性代数标签：ICA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ica"
   },
   {
     "id": "la-tag-221",
@@ -1765,7 +1985,8 @@
     "category": "线性代数",
     "description": "线性代数标签：因子分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "因子分析"
   },
   {
     "id": "la-tag-222",
@@ -1773,7 +1994,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对应分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对应分析"
   },
   {
     "id": "la-tag-223",
@@ -1781,7 +2003,8 @@
     "category": "线性代数",
     "description": "线性代数标签：多维标度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多维标度"
   },
   {
     "id": "la-tag-224",
@@ -1789,7 +2012,8 @@
     "category": "线性代数",
     "description": "线性代数标签：MDS",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mds"
   },
   {
     "id": "la-tag-225",
@@ -1797,7 +2021,8 @@
     "category": "线性代数",
     "description": "线性代数标签：典型相关",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "典型相关"
   },
   {
     "id": "la-tag-226",
@@ -1805,7 +2030,8 @@
     "category": "线性代数",
     "description": "线性代数标签：CCA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cca"
   },
   {
     "id": "la-tag-227",
@@ -1813,7 +2039,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性判别分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性判别分析"
   },
   {
     "id": "la-tag-228",
@@ -1821,7 +2048,8 @@
     "category": "线性代数",
     "description": "线性代数标签：LDA",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lda"
   },
   {
     "id": "la-tag-229",
@@ -1829,7 +2057,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影寻踪",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影寻踪"
   },
   {
     "id": "la-tag-230",
@@ -1837,7 +2066,8 @@
     "category": "线性代数",
     "description": "线性代数标签：随机矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机矩阵"
   },
   {
     "id": "la-tag-231",
@@ -1845,7 +2075,8 @@
     "category": "线性代数",
     "description": "线性代数标签：随机矩阵理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机矩阵理论"
   },
   {
     "id": "la-tag-232",
@@ -1853,7 +2084,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱分布",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱分布"
   },
   {
     "id": "la-tag-233",
@@ -1861,7 +2093,8 @@
     "category": "线性代数",
     "description": "线性代数标签：Wigner半圆律",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "wigner半圆律"
   },
   {
     "id": "la-tag-234",
@@ -1869,7 +2102,8 @@
     "category": "线性代数",
     "description": "线性代数标签：MarchenkoPastur律",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "marchenkopastur律"
   },
   {
     "id": "la-tag-235",
@@ -1877,7 +2111,8 @@
     "category": "线性代数",
     "description": "线性代数标签：主成分估计",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主成分估计"
   },
   {
     "id": "la-tag-236",
@@ -1885,7 +2120,8 @@
     "category": "线性代数",
     "description": "线性代数标签：信号处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "信号处理"
   },
   {
     "id": "la-tag-237",
@@ -1893,7 +2129,8 @@
     "category": "线性代数",
     "description": "线性代数标签：阵列处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "阵列处理"
   },
   {
     "id": "la-tag-238",
@@ -1901,7 +2138,8 @@
     "category": "线性代数",
     "description": "线性代数标签：波达方向",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "波达方向"
   },
   {
     "id": "la-tag-239",
@@ -1909,7 +2147,8 @@
     "category": "线性代数",
     "description": "线性代数标签：波束成形",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "波束成形"
   },
   {
     "id": "la-tag-240",
@@ -1917,7 +2156,8 @@
     "category": "线性代数",
     "description": "线性代数标签：自适应滤波",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自适应滤波"
   },
   {
     "id": "la-tag-241",
@@ -1925,7 +2165,8 @@
     "category": "线性代数",
     "description": "线性代数标签：卡尔曼滤波",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "卡尔曼滤波"
   },
   {
     "id": "la-tag-242",
@@ -1933,7 +2174,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵完成",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵完成"
   },
   {
     "id": "la-tag-243",
@@ -1941,7 +2183,8 @@
     "category": "线性代数",
     "description": "线性代数标签：低秩矩阵恢复",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "低秩矩阵恢复"
   },
   {
     "id": "la-tag-244",
@@ -1949,7 +2192,8 @@
     "category": "线性代数",
     "description": "线性代数标签：压缩感知",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "压缩感知"
   },
   {
     "id": "la-tag-245",
@@ -1957,7 +2201,8 @@
     "category": "线性代数",
     "description": "线性代数标签：稀疏表示",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稀疏表示"
   },
   {
     "id": "la-tag-246",
@@ -1965,7 +2210,8 @@
     "category": "线性代数",
     "description": "线性代数标签：字典学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "字典学习"
   },
   {
     "id": "la-tag-247",
@@ -1973,7 +2219,8 @@
     "category": "线性代数",
     "description": "线性代数标签：斯诺",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斯诺"
   },
   {
     "id": "la-tag-248",
@@ -1981,7 +2228,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵微分方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵微分方程"
   },
   {
     "id": "la-tag-249",
@@ -1989,7 +2237,8 @@
     "category": "线性代数",
     "description": "线性代数标签：黎卡提方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "黎卡提方程"
   },
   {
     "id": "la-tag-250",
@@ -1997,7 +2246,8 @@
     "category": "线性代数",
     "description": "线性代数标签：李雅普诺夫方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "李雅普诺夫方程"
   },
   {
     "id": "la-tag-251",
@@ -2005,7 +2255,8 @@
     "category": "线性代数",
     "description": "线性代数标签：西尔维斯特方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "西尔维斯特方程"
   },
   {
     "id": "la-tag-252",
@@ -2013,7 +2264,8 @@
     "category": "线性代数",
     "description": "线性代数标签：代数Riccati方程",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数riccati方程"
   },
   {
     "id": "la-tag-253",
@@ -2021,7 +2273,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性矩阵不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性矩阵不等式"
   },
   {
     "id": "la-tag-254",
@@ -2029,7 +2282,8 @@
     "category": "线性代数",
     "description": "线性代数标签：半定规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "半定规划"
   },
   {
     "id": "la-tag-255",
@@ -2037,7 +2291,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性二次型调节",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性二次型调节"
   },
   {
     "id": "la-tag-256",
@@ -2045,7 +2300,8 @@
     "category": "线性代数",
     "description": "线性代数标签：控制理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "控制理论"
   },
   {
     "id": "la-tag-257",
@@ -2053,7 +2309,8 @@
     "category": "线性代数",
     "description": "线性代数标签：能控性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "能控性"
   },
   {
     "id": "la-tag-258",
@@ -2061,7 +2318,8 @@
     "category": "线性代数",
     "description": "线性代数标签：能观性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "能观性"
   },
   {
     "id": "la-tag-259",
@@ -2069,7 +2327,8 @@
     "category": "线性代数",
     "description": "线性代数标签：传递函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "传递函数"
   },
   {
     "id": "la-tag-260",
@@ -2077,7 +2336,8 @@
     "category": "线性代数",
     "description": "线性代数标签：状态空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "状态空间"
   },
   {
     "id": "la-tag-261",
@@ -2085,7 +2345,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极点和零点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极点和零点"
   },
   {
     "id": "la-tag-262",
@@ -2093,7 +2354,8 @@
     "category": "线性代数",
     "description": "线性代数标签：反馈镇定",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反馈镇定"
   },
   {
     "id": "la-tag-263",
@@ -2101,7 +2363,8 @@
     "category": "线性代数",
     "description": "线性代数标签：分布式优化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分布式优化"
   },
   {
     "id": "la-tag-264",
@@ -2109,7 +2372,8 @@
     "category": "线性代数",
     "description": "线性代数标签：一致性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "一致性"
   },
   {
     "id": "la-tag-265",
@@ -2117,7 +2381,8 @@
     "category": "线性代数",
     "description": "线性代数标签：共识",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共识"
   },
   {
     "id": "la-tag-266",
@@ -2125,7 +2390,8 @@
     "category": "线性代数",
     "description": "线性代数标签：多智能体系统",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多智能体系统"
   },
   {
     "id": "la-tag-267",
@@ -2133,7 +2399,8 @@
     "category": "线性代数",
     "description": "线性代数标签：网络控制",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "网络控制"
   },
   {
     "id": "la-tag-268",
@@ -2141,7 +2408,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图拉普拉斯",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图拉普拉斯"
   },
   {
     "id": "la-tag-269",
@@ -2149,7 +2417,8 @@
     "category": "线性代数",
     "description": "线性代数标签：代数连通度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数连通度"
   },
   {
     "id": "la-tag-270",
@@ -2157,7 +2426,8 @@
     "category": "线性代数",
     "description": "线性代数标签：随机游走",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "随机游走"
   },
   {
     "id": "la-tag-271",
@@ -2165,7 +2435,8 @@
     "category": "线性代数",
     "description": "线性代数标签：马尔可夫链",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "马尔可夫链"
   },
   {
     "id": "la-tag-272",
@@ -2173,7 +2444,8 @@
     "category": "线性代数",
     "description": "线性代数标签：PageRank",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pagerank"
   },
   {
     "id": "la-tag-273",
@@ -2181,7 +2453,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征向量中心度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征向量中心度"
   },
   {
     "id": "la-tag-274",
@@ -2189,7 +2462,8 @@
     "category": "线性代数",
     "description": "线性代数标签：中介中心度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "中介中心度"
   },
   {
     "id": "la-tag-275",
@@ -2197,7 +2471,8 @@
     "category": "线性代数",
     "description": "线性代数标签：聚类系数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "聚类系数"
   },
   {
     "id": "la-tag-276",
@@ -2205,7 +2480,8 @@
     "category": "线性代数",
     "description": "线性代数标签：模块性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "模块性"
   },
   {
     "id": "la-tag-277",
@@ -2213,7 +2489,8 @@
     "category": "线性代数",
     "description": "线性代数标签：社区发现",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "社区发现"
   },
   {
     "id": "la-tag-278",
@@ -2221,7 +2498,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱聚类",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱聚类"
   },
   {
     "id": "la-tag-279",
@@ -2229,7 +2507,8 @@
     "category": "线性代数",
     "description": "线性代数标签：归一化割",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "归一化割"
   },
   {
     "id": "la-tag-280",
@@ -2237,7 +2516,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小割",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小割"
   },
   {
     "id": "la-tag-281",
@@ -2245,7 +2525,8 @@
     "category": "线性代数",
     "description": "线性代数标签：等周比",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等周比"
   },
   {
     "id": "la-tag-282",
@@ -2253,7 +2534,8 @@
     "category": "线性代数",
     "description": "线性代数标签：Cheeger不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cheeger不等式"
   },
   {
     "id": "la-tag-283",
@@ -2261,7 +2543,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图信号处理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图信号处理"
   },
   {
     "id": "la-tag-284",
@@ -2269,7 +2552,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图傅里叶变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图傅里叶变换"
   },
   {
     "id": "la-tag-285",
@@ -2277,7 +2561,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图谱理论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图谱理论"
   },
   {
     "id": "la-tag-286",
@@ -2285,7 +2570,8 @@
     "category": "线性代数",
     "description": "线性代数标签：雷利商",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "雷利商"
   },
   {
     "id": "la-tag-287",
@@ -2293,7 +2579,8 @@
     "category": "线性代数",
     "description": "线性代数标签：交错定理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交错定理"
   },
   {
     "id": "la-tag-288",
@@ -2301,7 +2588,8 @@
     "category": "线性代数",
     "description": "线性代数标签：柯罗列夫",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯罗列夫"
   },
   {
     "id": "la-tag-289",
@@ -2309,7 +2597,8 @@
     "category": "线性代数",
     "description": "线性代数标签：惯性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "惯性"
   },
   {
     "id": "la-tag-290",
@@ -2317,7 +2606,8 @@
     "category": "线性代数",
     "description": "线性代数标签：小扰动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "小扰动"
   },
   {
     "id": "la-tag-291",
@@ -2325,7 +2615,8 @@
     "category": "线性代数",
     "description": "线性代数标签：纽曼",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "纽曼"
   },
   {
     "id": "la-tag-292",
@@ -2333,7 +2624,8 @@
     "category": "线性代数",
     "description": "线性代数标签：本征值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本征值"
   },
   {
     "id": "la-tag-293",
@@ -2341,7 +2633,8 @@
     "category": "线性代数",
     "description": "线性代数标签：本征向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本征向量"
   },
   {
     "id": "la-tag-294",
@@ -2349,7 +2642,8 @@
     "category": "线性代数",
     "description": "线性代数标签：主元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主元"
   },
   {
     "id": "la-tag-295",
@@ -2357,7 +2651,8 @@
     "category": "线性代数",
     "description": "线性代数标签：辅助变量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "辅助变量"
   },
   {
     "id": "la-tag-296",
@@ -2365,7 +2660,8 @@
     "category": "线性代数",
     "description": "线性代数标签：分块矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分块矩阵"
   },
   {
     "id": "la-tag-297",
@@ -2373,7 +2669,8 @@
     "category": "线性代数",
     "description": "线性代数标签：舒尔补",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "舒尔补"
   },
   {
     "id": "la-tag-298",
@@ -2381,7 +2678,8 @@
     "category": "线性代数",
     "description": "线性代数标签：克罗内克积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "克罗内克积"
   },
   {
     "id": "la-tag-299",
@@ -2389,7 +2687,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量化"
   },
   {
     "id": "la-tag-300",
@@ -2397,7 +2696,8 @@
     "category": "线性代数",
     "description": "线性代数标签：列展平",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "列展平"
   },
   {
     "id": "la-tag-301",
@@ -2405,7 +2705,8 @@
     "category": "线性代数",
     "description": "线性代数标签：行展平",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "行展平"
   },
   {
     "id": "la-tag-302",
@@ -2413,7 +2714,8 @@
     "category": "线性代数",
     "description": "线性代数标签：保持算子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "保持算子"
   },
   {
     "id": "la-tag-303",
@@ -2421,7 +2723,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量"
   },
   {
     "id": "la-tag-304",
@@ -2429,7 +2732,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量积"
   },
   {
     "id": "la-tag-305",
@@ -2437,7 +2741,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量分解"
   },
   {
     "id": "la-tag-306",
@@ -2445,7 +2750,8 @@
     "category": "线性代数",
     "description": "线性代数标签：CP分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "cp分解"
   },
   {
     "id": "la-tag-307",
@@ -2453,7 +2759,8 @@
     "category": "线性代数",
     "description": "线性代数标签：Tucker分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "tucker分解"
   },
   {
     "id": "la-tag-308",
@@ -2461,7 +2768,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量训练",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量训练"
   },
   {
     "id": "la-tag-309",
@@ -2469,7 +2777,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量环",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量环"
   },
   {
     "id": "la-tag-310",
@@ -2477,7 +2786,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高阶奇异值分解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高阶奇异值分解"
   },
   {
     "id": "la-tag-311",
@@ -2485,7 +2795,8 @@
     "category": "线性代数",
     "description": "线性代数标签：多线性代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多线性代数"
   },
   {
     "id": "la-tag-312",
@@ -2493,7 +2804,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子计算",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子计算"
   },
   {
     "id": "la-tag-313",
@@ -2501,7 +2813,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵"
   },
   {
     "id": "la-tag-314",
@@ -2509,7 +2822,8 @@
     "category": "线性代数",
     "description": "线性代数标签：泡利矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泡利矩阵"
   },
   {
     "id": "la-tag-315",
@@ -2517,7 +2831,8 @@
     "category": "线性代数",
     "description": "线性代数标签：密度矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "密度矩阵"
   },
   {
     "id": "la-tag-316",
@@ -2525,7 +2840,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子门",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子门"
   },
   {
     "id": "la-tag-317",
@@ -2533,7 +2849,8 @@
     "category": "线性代数",
     "description": "线性代数标签：纠缠",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "纠缠"
   },
   {
     "id": "la-tag-318",
@@ -2541,7 +2858,8 @@
     "category": "线性代数",
     "description": "线性代数标签：贝尔态",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "贝尔态"
   },
   {
     "id": "la-tag-319",
@@ -2549,7 +2867,8 @@
     "category": "线性代数",
     "description": "线性代数标签：测量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "测量"
   },
   {
     "id": "la-tag-320",
@@ -2557,7 +2876,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影测量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影测量"
   },
   {
     "id": "la-tag-321",
@@ -2565,7 +2885,8 @@
     "category": "线性代数",
     "description": "线性代数标签：POVM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "povm"
   },
   {
     "id": "la-tag-322",
@@ -2573,7 +2894,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子信道",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子信道"
   },
   {
     "id": "la-tag-323",
@@ -2581,7 +2903,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子纠错",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子纠错"
   },
   {
     "id": "la-tag-324",
@@ -2589,7 +2912,8 @@
     "category": "线性代数",
     "description": "线性代数标签：稳定子码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稳定子码"
   },
   {
     "id": "la-tag-325",
@@ -2597,7 +2921,8 @@
     "category": "线性代数",
     "description": "线性代数标签：扭转",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "扭转"
   },
   {
     "id": "la-tag-326",
@@ -2605,7 +2930,8 @@
     "category": "线性代数",
     "description": "线性代数标签：物理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "物理"
   },
   {
     "id": "la-tag-327",
@@ -2613,7 +2939,8 @@
     "category": "线性代数",
     "description": "线性代数标签：子空间编码",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子空间编码"
   },
   {
     "id": "la-tag-328",
@@ -2621,7 +2948,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子傅里叶变换",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子傅里叶变换"
   },
   {
     "id": "la-tag-329",
@@ -2629,7 +2957,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子算法"
   },
   {
     "id": "la-tag-330",
@@ -2637,7 +2966,8 @@
     "category": "线性代数",
     "description": "线性代数标签：肖尔算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "肖尔算法"
   },
   {
     "id": "la-tag-331",
@@ -2645,7 +2975,8 @@
     "category": "线性代数",
     "description": "线性代数标签：格罗弗",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "格罗弗"
   },
   {
     "id": "la-tag-332",
@@ -2653,7 +2984,8 @@
     "category": "线性代数",
     "description": "线性代数标签：搜索",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "搜索"
   },
   {
     "id": "la-tag-333",
@@ -2661,7 +2993,8 @@
     "category": "线性代数",
     "description": "线性代数标签：哈密顿模拟",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈密顿模拟"
   },
   {
     "id": "la-tag-334",
@@ -2669,7 +3002,8 @@
     "category": "线性代数",
     "description": "线性代数标签：变分量子特征值求解",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "变分量子特征值求解"
   },
   {
     "id": "la-tag-335",
@@ -2677,7 +3011,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子机器学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子机器学习"
   },
   {
     "id": "la-tag-336",
@@ -2685,7 +3020,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子主成分分析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子主成分分析"
   },
   {
     "id": "la-tag-337",
@@ -2693,7 +3029,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子支持向量机",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子支持向量机"
   },
   {
     "id": "la-tag-338",
@@ -2701,7 +3038,8 @@
     "category": "线性代数",
     "description": "线性代数标签：量子张量网络",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "量子张量网络"
   },
   {
     "id": "la-tag-339",
@@ -2709,7 +3047,8 @@
     "category": "线性代数",
     "description": "线性代数标签：数学基础",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "数学基础"
   },
   {
     "id": "la-tag-340",
@@ -2717,7 +3056,8 @@
     "category": "线性代数",
     "description": "线性代数标签：集合论",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "集合论"
   },
   {
     "id": "la-tag-341",
@@ -2725,7 +3065,8 @@
     "category": "线性代数",
     "description": "线性代数标签：映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "映射"
   },
   {
     "id": "la-tag-342",
@@ -2733,7 +3074,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性序",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性序"
   },
   {
     "id": "la-tag-343",
@@ -2741,7 +3083,8 @@
     "category": "线性代数",
     "description": "线性代数标签：偏序",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "偏序"
   },
   {
     "id": "la-tag-344",
@@ -2749,7 +3092,8 @@
     "category": "线性代数",
     "description": "线性代数标签：度量空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "度量空间"
   },
   {
     "id": "la-tag-345",
@@ -2757,7 +3101,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拓扑",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拓扑"
   },
   {
     "id": "la-tag-346",
@@ -2765,7 +3110,8 @@
     "category": "线性代数",
     "description": "线性代数标签：向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "向量"
   },
   {
     "id": "la-tag-347",
@@ -2773,7 +3119,8 @@
     "category": "线性代数",
     "description": "线性代数标签：坐标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "坐标"
   },
   {
     "id": "la-tag-348",
@@ -2781,7 +3128,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性"
   },
   {
     "id": "la-tag-349",
@@ -2789,7 +3137,8 @@
     "category": "线性代数",
     "description": "线性代数标签：仿射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "仿射"
   },
   {
     "id": "la-tag-350",
@@ -2797,7 +3146,8 @@
     "category": "线性代数",
     "description": "线性代数标签：凸集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凸集"
   },
   {
     "id": "la-tag-351",
@@ -2805,7 +3155,8 @@
     "category": "线性代数",
     "description": "线性代数标签：凸锥",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凸锥"
   },
   {
     "id": "la-tag-352",
@@ -2813,7 +3164,8 @@
     "category": "线性代数",
     "description": "线性代数标签：凸包",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凸包"
   },
   {
     "id": "la-tag-353",
@@ -2821,7 +3173,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极值点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极值点"
   },
   {
     "id": "la-tag-354",
@@ -2829,7 +3182,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极点"
   },
   {
     "id": "la-tag-355",
@@ -2837,7 +3191,8 @@
     "category": "线性代数",
     "description": "线性代数标签：方向",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "方向"
   },
   {
     "id": "la-tag-356",
@@ -2845,7 +3200,8 @@
     "category": "线性代数",
     "description": "线性代数标签：极值方向",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "极值方向"
   },
   {
     "id": "la-tag-357",
@@ -2853,7 +3209,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性不等式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性不等式"
   },
   {
     "id": "la-tag-358",
@@ -2861,7 +3218,8 @@
     "category": "线性代数",
     "description": "线性代数标签：多面体",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多面体"
   },
   {
     "id": "la-tag-359",
@@ -2869,7 +3227,8 @@
     "category": "线性代数",
     "description": "线性代数标签：多面体锥",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "多面体锥"
   },
   {
     "id": "la-tag-360",
@@ -2877,7 +3236,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对偶锥",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对偶锥"
   },
   {
     "id": "la-tag-361",
@@ -2885,7 +3245,8 @@
     "category": "线性代数",
     "description": "线性代数标签：法锥",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "法锥"
   },
   {
     "id": "la-tag-362",
@@ -2893,7 +3254,8 @@
     "category": "线性代数",
     "description": "线性代数标签：切锥",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "切锥"
   },
   {
     "id": "la-tag-363",
@@ -2901,7 +3263,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最优性条件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最优性条件"
   },
   {
     "id": "la-tag-364",
@@ -2909,7 +3272,8 @@
     "category": "线性代数",
     "description": "线性代数标签：KKT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "kkt"
   },
   {
     "id": "la-tag-365",
@@ -2917,7 +3281,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉格朗日对偶",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉格朗日对偶"
   },
   {
     "id": "la-tag-366",
@@ -2925,7 +3290,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对偶性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对偶性"
   },
   {
     "id": "la-tag-367",
@@ -2933,7 +3299,8 @@
     "category": "线性代数",
     "description": "线性代数标签：锥规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "锥规划"
   },
   {
     "id": "la-tag-368",
@@ -2941,7 +3308,8 @@
     "category": "线性代数",
     "description": "线性代数标签：二阶锥规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "二阶锥规划"
   },
   {
     "id": "la-tag-369",
@@ -2949,7 +3317,8 @@
     "category": "线性代数",
     "description": "线性代数标签：半定规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "半定规划"
   },
   {
     "id": "la-tag-370",
@@ -2957,7 +3326,8 @@
     "category": "线性代数",
     "description": "线性代数标签：非负矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非负矩阵"
   },
   {
     "id": "la-tag-371",
@@ -2965,7 +3335,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱非负",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱非负"
   },
   {
     "id": "la-tag-372",
@@ -2973,7 +3344,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双随机矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双随机矩阵"
   },
   {
     "id": "la-tag-373",
@@ -2981,7 +3353,8 @@
     "category": "线性代数",
     "description": "线性代数标签：置换矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "置换矩阵"
   },
   {
     "id": "la-tag-374",
@@ -2989,7 +3362,8 @@
     "category": "线性代数",
     "description": "线性代数标签：托普利兹矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "托普利兹矩阵"
   },
   {
     "id": "la-tag-375",
@@ -2997,7 +3371,8 @@
     "category": "线性代数",
     "description": "线性代数标签：汉克尔矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "汉克尔矩阵"
   },
   {
     "id": "la-tag-376",
@@ -3005,7 +3380,8 @@
     "category": "线性代数",
     "description": "线性代数标签：范德蒙",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "范德蒙"
   },
   {
     "id": "la-tag-377",
@@ -3013,7 +3389,8 @@
     "category": "线性代数",
     "description": "线性代数标签：西尔维斯特",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "西尔维斯特"
   },
   {
     "id": "la-tag-378",
@@ -3021,7 +3398,8 @@
     "category": "线性代数",
     "description": "线性代数标签：柯西",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯西"
   },
   {
     "id": "la-tag-379",
@@ -3029,7 +3407,8 @@
     "category": "线性代数",
     "description": "线性代数标签：贝塞尔",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "贝塞尔"
   },
   {
     "id": "la-tag-380",
@@ -3037,7 +3416,8 @@
     "category": "线性代数",
     "description": "线性代数标签：勒让德",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "勒让德"
   },
   {
     "id": "la-tag-381",
@@ -3045,7 +3425,8 @@
     "category": "线性代数",
     "description": "线性代数标签：哈达玛积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "哈达玛积"
   },
   {
     "id": "la-tag-382",
@@ -3053,7 +3434,8 @@
     "category": "线性代数",
     "description": "线性代数标签：逐项积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "逐项积"
   },
   {
     "id": "la-tag-383",
@@ -3061,7 +3443,8 @@
     "category": "线性代数",
     "description": "线性代数标签：克森积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "克森积"
   },
   {
     "id": "la-tag-384",
@@ -3069,7 +3452,8 @@
     "category": "线性代数",
     "description": "线性代数标签：内积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "内积"
   },
   {
     "id": "la-tag-385",
@@ -3077,7 +3461,8 @@
     "category": "线性代数",
     "description": "线性代数标签：外积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "外积"
   },
   {
     "id": "la-tag-386",
@@ -3085,7 +3470,8 @@
     "category": "线性代数",
     "description": "线性代数标签：楔积",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "楔积"
   },
   {
     "id": "la-tag-387",
@@ -3093,7 +3479,8 @@
     "category": "线性代数",
     "description": "线性代数标签：李代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "李代数"
   },
   {
     "id": "la-tag-388",
@@ -3101,7 +3488,8 @@
     "category": "线性代数",
     "description": "线性代数标签：李群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "李群"
   },
   {
     "id": "la-tag-389",
@@ -3109,7 +3497,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特殊正交群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特殊正交群"
   },
   {
     "id": "la-tag-390",
@@ -3117,7 +3506,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特殊欧氏群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特殊欧氏群"
   },
   {
     "id": "la-tag-391",
@@ -3125,7 +3515,8 @@
     "category": "线性代数",
     "description": "线性代数标签：旋转群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "旋转群"
   },
   {
     "id": "la-tag-392",
@@ -3133,7 +3524,8 @@
     "category": "线性代数",
     "description": "线性代数标签：指数映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "指数映射"
   },
   {
     "id": "la-tag-393",
@@ -3141,7 +3533,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对数映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对数映射"
   },
   {
     "id": "la-tag-394",
@@ -3149,7 +3542,8 @@
     "category": "线性代数",
     "description": "线性代数标签：伴随表示",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伴随表示"
   },
   {
     "id": "la-tag-395",
@@ -3157,7 +3551,8 @@
     "category": "线性代数",
     "description": "线性代数标签：切空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "切空间"
   },
   {
     "id": "la-tag-396",
@@ -3165,7 +3560,8 @@
     "category": "线性代数",
     "description": "线性代数标签：左不变",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "左不变"
   },
   {
     "id": "la-tag-397",
@@ -3173,7 +3569,8 @@
     "category": "线性代数",
     "description": "线性代数标签：右不变",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "右不变"
   },
   {
     "id": "la-tag-398",
@@ -3181,7 +3578,8 @@
     "category": "线性代数",
     "description": "线性代数标签：基灵矢量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基灵矢量"
   },
   {
     "id": "la-tag-399",
@@ -3189,7 +3587,8 @@
     "category": "线性代数",
     "description": "线性代数标签：基灵形式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "基灵形式"
   },
   {
     "id": "la-tag-400",
@@ -3197,7 +3596,8 @@
     "category": "线性代数",
     "description": "线性代数标签：结构常数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构常数"
   },
   {
     "id": "la-tag-401",
@@ -3205,7 +3605,8 @@
     "category": "线性代数",
     "description": "线性代数标签：交换关系",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交换关系"
   },
   {
     "id": "la-tag-402",
@@ -3213,7 +3614,8 @@
     "category": "线性代数",
     "description": "线性代数标签：泛盖代数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泛盖代数"
   },
   {
     "id": "la-tag-403",
@@ -3221,7 +3623,8 @@
     "category": "线性代数",
     "description": "线性代数标签：群表示",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "群表示"
   },
   {
     "id": "la-tag-404",
@@ -3229,7 +3632,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征标",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征标"
   },
   {
     "id": "la-tag-405",
@@ -3237,7 +3641,8 @@
     "category": "线性代数",
     "description": "线性代数标签：舒尔引理",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "舒尔引理"
   },
   {
     "id": "la-tag-406",
@@ -3245,7 +3650,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交关系",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交关系"
   },
   {
     "id": "la-tag-407",
@@ -3253,7 +3659,8 @@
     "category": "线性代数",
     "description": "线性代数标签：彼得-外尔",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "彼得-外尔"
   },
   {
     "id": "la-tag-408",
@@ -3261,7 +3668,8 @@
     "category": "线性代数",
     "description": "线性代数标签：紧群",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "紧群"
   },
   {
     "id": "la-tag-409",
@@ -3269,7 +3677,8 @@
     "category": "线性代数",
     "description": "线性代数标签：局部域",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "局部域"
   },
   {
     "id": "la-tag-410",
@@ -3277,7 +3686,8 @@
     "category": "线性代数",
     "description": "线性代数标签：诱导表示",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "诱导表示"
   },
   {
     "id": "la-tag-411",
@@ -3285,7 +3695,8 @@
     "category": "线性代数",
     "description": "线性代数标签：弗罗贝尼乌斯互反",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弗罗贝尼乌斯互反"
   },
   {
     "id": "la-tag-412",
@@ -3293,7 +3704,8 @@
     "category": "线性代数",
     "description": "线性代数标签：加权伽辽金",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "加权伽辽金"
   },
   {
     "id": "la-tag-413",
@@ -3301,7 +3713,8 @@
     "category": "线性代数",
     "description": "线性代数标签：残差",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "残差"
   },
   {
     "id": "la-tag-414",
@@ -3309,7 +3722,8 @@
     "category": "线性代数",
     "description": "线性代数标签：弱形式",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弱形式"
   },
   {
     "id": "la-tag-415",
@@ -3317,7 +3731,8 @@
     "category": "线性代数",
     "description": "线性代数标签：有限元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "有限元"
   },
   {
     "id": "la-tag-416",
@@ -3325,7 +3740,8 @@
     "category": "线性代数",
     "description": "线性代数标签：刚度矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "刚度矩阵"
   },
   {
     "id": "la-tag-417",
@@ -3333,7 +3749,8 @@
     "category": "线性代数",
     "description": "线性代数标签：质量矩阵",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "质量矩阵"
   },
   {
     "id": "la-tag-418",
@@ -3341,7 +3758,8 @@
     "category": "线性代数",
     "description": "线性代数标签：载荷向量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "载荷向量"
   },
   {
     "id": "la-tag-419",
@@ -3349,7 +3767,8 @@
     "category": "线性代数",
     "description": "线性代数标签：形函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "形函数"
   },
   {
     "id": "la-tag-420",
@@ -3357,7 +3776,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高斯积分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高斯积分"
   },
   {
     "id": "la-tag-421",
@@ -3365,7 +3785,8 @@
     "category": "线性代数",
     "description": "线性代数标签：单元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "单元"
   },
   {
     "id": "la-tag-422",
@@ -3373,7 +3794,8 @@
     "category": "线性代数",
     "description": "线性代数标签：装配",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "装配"
   },
   {
     "id": "la-tag-423",
@@ -3381,7 +3803,8 @@
     "category": "线性代数",
     "description": "线性代数标签：约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "约束"
   },
   {
     "id": "la-tag-424",
@@ -3389,7 +3812,8 @@
     "category": "线性代数",
     "description": "线性代数标签：狄利克雷",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "狄利克雷"
   },
   {
     "id": "la-tag-425",
@@ -3397,7 +3821,8 @@
     "category": "线性代数",
     "description": "线性代数标签：诺伊曼",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "诺伊曼"
   },
   {
     "id": "la-tag-426",
@@ -3405,7 +3830,8 @@
     "category": "线性代数",
     "description": "线性代数标签：罗宾",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "罗宾"
   },
   {
     "id": "la-tag-427",
@@ -3413,7 +3839,8 @@
     "category": "线性代数",
     "description": "线性代数标签：边界条件",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边界条件"
   },
   {
     "id": "la-tag-428",
@@ -3421,7 +3848,8 @@
     "category": "线性代数",
     "description": "线性代数标签：特征值问题",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "特征值问题"
   },
   {
     "id": "la-tag-429",
@@ -3429,7 +3857,8 @@
     "category": "线性代数",
     "description": "线性代数标签：椭圆型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "椭圆型"
   },
   {
     "id": "la-tag-430",
@@ -3437,7 +3866,8 @@
     "category": "线性代数",
     "description": "线性代数标签：抛物型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "抛物型"
   },
   {
     "id": "la-tag-431",
@@ -3445,7 +3875,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双曲型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双曲型"
   },
   {
     "id": "la-tag-432",
@@ -3453,7 +3884,8 @@
     "category": "线性代数",
     "description": "线性代数标签：算子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "算子"
   },
   {
     "id": "la-tag-433",
@@ -3461,7 +3893,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉普拉斯",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉普拉斯"
   },
   {
     "id": "la-tag-434",
@@ -3469,7 +3902,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双调和",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双调和"
   },
   {
     "id": "la-tag-435",
@@ -3477,7 +3911,8 @@
     "category": "线性代数",
     "description": "线性代数标签：柯西",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "柯西"
   },
   {
     "id": "la-tag-436",
@@ -3485,7 +3920,8 @@
     "category": "线性代数",
     "description": "线性代数标签：古萨",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "古萨"
   },
   {
     "id": "la-tag-437",
@@ -3493,7 +3929,8 @@
     "category": "线性代数",
     "description": "线性代数标签：黎曼边值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "黎曼边值"
   },
   {
     "id": "la-tag-438",
@@ -3501,7 +3938,8 @@
     "category": "线性代数",
     "description": "线性代数标签：纽曼边值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "纽曼边值"
   },
   {
     "id": "la-tag-439",
@@ -3509,7 +3947,8 @@
     "category": "线性代数",
     "description": "线性代数标签：混合边值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "混合边值"
   },
   {
     "id": "la-tag-440",
@@ -3517,7 +3956,8 @@
     "category": "线性代数",
     "description": "线性代数标签：自由边界",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自由边界"
   },
   {
     "id": "la-tag-441",
@@ -3525,7 +3965,8 @@
     "category": "线性代数",
     "description": "线性代数标签：移动边界",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "移动边界"
   },
   {
     "id": "la-tag-442",
@@ -3533,7 +3974,8 @@
     "category": "线性代数",
     "description": "线性代数标签：界面",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "界面"
   },
   {
     "id": "la-tag-443",
@@ -3541,7 +3983,8 @@
     "category": "线性代数",
     "description": "线性代数标签：接触",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "接触"
   },
   {
     "id": "la-tag-444",
@@ -3549,7 +3992,8 @@
     "category": "线性代数",
     "description": "线性代数标签：断裂",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "断裂"
   },
   {
     "id": "la-tag-445",
@@ -3557,7 +4001,8 @@
     "category": "线性代数",
     "description": "线性代数标签：裂纹",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "裂纹"
   },
   {
     "id": "la-tag-446",
@@ -3565,7 +4010,8 @@
     "category": "线性代数",
     "description": "线性代数标签：位错",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "位错"
   },
   {
     "id": "la-tag-447",
@@ -3573,7 +4019,8 @@
     "category": "线性代数",
     "description": "线性代数标签：夹杂",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "夹杂"
   },
   {
     "id": "la-tag-448",
@@ -3581,7 +4028,8 @@
     "category": "线性代数",
     "description": "线性代数标签：缺陷",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "缺陷"
   },
   {
     "id": "la-tag-449",
@@ -3589,7 +4037,8 @@
     "category": "线性代数",
     "description": "线性代数标签：非匀质",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "非匀质"
   },
   {
     "id": "la-tag-450",
@@ -3597,7 +4046,8 @@
     "category": "线性代数",
     "description": "线性代数标签：各向异性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "各向异性"
   },
   {
     "id": "la-tag-451",
@@ -3605,7 +4055,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交各向异性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交各向异性"
   },
   {
     "id": "la-tag-452",
@@ -3613,7 +4064,8 @@
     "category": "线性代数",
     "description": "线性代数标签：横观各向同性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "横观各向同性"
   },
   {
     "id": "la-tag-453",
@@ -3621,7 +4073,8 @@
     "category": "线性代数",
     "description": "线性代数标签：各向同性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "各向同性"
   },
   {
     "id": "la-tag-454",
@@ -3629,7 +4082,8 @@
     "category": "线性代数",
     "description": "线性代数标签：杨氏模量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "杨氏模量"
   },
   {
     "id": "la-tag-455",
@@ -3637,7 +4091,8 @@
     "category": "线性代数",
     "description": "线性代数标签：泊松比",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "泊松比"
   },
   {
     "id": "la-tag-456",
@@ -3645,7 +4100,8 @@
     "category": "线性代数",
     "description": "线性代数标签：剪切模量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "剪切模量"
   },
   {
     "id": "la-tag-457",
@@ -3653,7 +4109,8 @@
     "category": "线性代数",
     "description": "线性代数标签：体积模量",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "体积模量"
   },
   {
     "id": "la-tag-458",
@@ -3661,7 +4118,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉梅常数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉梅常数"
   },
   {
     "id": "la-tag-459",
@@ -3669,7 +4127,8 @@
     "category": "线性代数",
     "description": "线性代数标签：应力",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "应力"
   },
   {
     "id": "la-tag-460",
@@ -3677,7 +4136,8 @@
     "category": "线性代数",
     "description": "线性代数标签：应变",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "应变"
   },
   {
     "id": "la-tag-461",
@@ -3685,7 +4145,8 @@
     "category": "线性代数",
     "description": "线性代数标签：本构关系",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "本构关系"
   },
   {
     "id": "la-tag-462",
@@ -3693,7 +4154,8 @@
     "category": "线性代数",
     "description": "线性代数标签：胡克定律",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "胡克定律"
   },
   {
     "id": "la-tag-463",
@@ -3701,7 +4163,8 @@
     "category": "线性代数",
     "description": "线性代数标签：弹性能",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "弹性能"
   },
   {
     "id": "la-tag-464",
@@ -3709,7 +4172,8 @@
     "category": "线性代数",
     "description": "线性代数标签：余能",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "余能"
   },
   {
     "id": "la-tag-465",
@@ -3717,7 +4181,8 @@
     "category": "线性代数",
     "description": "线性代数标签：虚功",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "虚功"
   },
   {
     "id": "la-tag-466",
@@ -3725,7 +4190,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小势能",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小势能"
   },
   {
     "id": "la-tag-467",
@@ -3733,7 +4199,8 @@
     "category": "线性代数",
     "description": "线性代数标签：最小余能",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "最小余能"
   },
   {
     "id": "la-tag-468",
@@ -3741,7 +4208,8 @@
     "category": "线性代数",
     "description": "线性代数标签：瑞利-里兹",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "瑞利-里兹"
   },
   {
     "id": "la-tag-469",
@@ -3749,7 +4217,8 @@
     "category": "线性代数",
     "description": "线性代数标签：伽辽金",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "伽辽金"
   },
   {
     "id": "la-tag-470",
@@ -3757,7 +4226,8 @@
     "category": "线性代数",
     "description": "线性代数标签：配点法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "配点法"
   },
   {
     "id": "la-tag-471",
@@ -3765,7 +4235,8 @@
     "category": "线性代数",
     "description": "线性代数标签：子域法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "子域法"
   },
   {
     "id": "la-tag-472",
@@ -3773,7 +4244,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩法"
   },
   {
     "id": "la-tag-473",
@@ -3781,7 +4253,8 @@
     "category": "线性代数",
     "description": "线性代数标签：边界元",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "边界元"
   },
   {
     "id": "la-tag-474",
@@ -3789,7 +4262,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇点",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇点"
   },
   {
     "id": "la-tag-475",
@@ -3797,7 +4271,8 @@
     "category": "线性代数",
     "description": "线性代数标签：罚函数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "罚函数"
   },
   {
     "id": "la-tag-476",
@@ -3805,7 +4280,8 @@
     "category": "线性代数",
     "description": "线性代数标签：增广拉格朗日",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "增广拉格朗日"
   },
   {
     "id": "la-tag-477",
@@ -3813,7 +4289,8 @@
     "category": "线性代数",
     "description": "线性代数标签：乘子法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "乘子法"
   },
   {
     "id": "la-tag-478",
@@ -3821,7 +4298,8 @@
     "category": "线性代数",
     "description": "线性代数标签：序列二次规划",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "序列二次规划"
   },
   {
     "id": "la-tag-479",
@@ -3829,7 +4307,8 @@
     "category": "线性代数",
     "description": "线性代数标签：梯度投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "梯度投影"
   },
   {
     "id": "la-tag-480",
@@ -3837,7 +4316,8 @@
     "category": "线性代数",
     "description": "线性代数标签：简约梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "简约梯度"
   },
   {
     "id": "la-tag-481",
@@ -3845,7 +4325,8 @@
     "category": "线性代数",
     "description": "线性代数标签：广义简约梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "广义简约梯度"
   },
   {
     "id": "la-tag-482",
@@ -3853,7 +4334,8 @@
     "category": "线性代数",
     "description": "线性代数标签：直接搜索",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "直接搜索"
   },
   {
     "id": "la-tag-483",
@@ -3861,7 +4343,8 @@
     "category": "线性代数",
     "description": "线性代数标签：模式搜索",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "模式搜索"
   },
   {
     "id": "la-tag-484",
@@ -3869,7 +4352,8 @@
     "category": "线性代数",
     "description": "线性代数标签：坐标下降",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "坐标下降"
   },
   {
     "id": "la-tag-485",
@@ -3877,7 +4361,8 @@
     "category": "线性代数",
     "description": "线性代数标签：交替方向",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "交替方向"
   },
   {
     "id": "la-tag-486",
@@ -3885,7 +4370,8 @@
     "category": "线性代数",
     "description": "线性代数标签：ADMM",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "admm"
   },
   {
     "id": "la-tag-487",
@@ -3893,7 +4379,8 @@
     "category": "线性代数",
     "description": "线性代数标签：分裂",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分裂"
   },
   {
     "id": "la-tag-488",
@@ -3901,7 +4388,8 @@
     "category": "线性代数",
     "description": "线性代数标签：布雷格曼迭代",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "布雷格曼迭代"
   },
   {
     "id": "la-tag-489",
@@ -3909,7 +4397,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性化布雷格曼",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性化布雷格曼"
   },
   {
     "id": "la-tag-490",
@@ -3917,7 +4406,8 @@
     "category": "线性代数",
     "description": "线性代数标签：增广拉格朗日",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "增广拉格朗日"
   },
   {
     "id": "la-tag-491",
@@ -3925,7 +4415,8 @@
     "category": "线性代数",
     "description": "线性代数标签：原始对偶",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "原始对偶"
   },
   {
     "id": "la-tag-492",
@@ -3933,7 +4424,8 @@
     "category": "线性代数",
     "description": "线性代数标签：原始对偶混合梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "原始对偶混合梯度"
   },
   {
     "id": "la-tag-493",
@@ -3941,7 +4433,8 @@
     "category": "线性代数",
     "description": "线性代数标签：Chambolle-Pock",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "chambolle-pock"
   },
   {
     "id": "la-tag-494",
@@ -3949,7 +4442,8 @@
     "category": "线性代数",
     "description": "线性代数标签：全变分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "全变分"
   },
   {
     "id": "la-tag-495",
@@ -3957,7 +4451,8 @@
     "category": "线性代数",
     "description": "线性代数标签：总变分",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "总变分"
   },
   {
     "id": "la-tag-496",
@@ -3965,7 +4460,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图像去噪",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图像去噪"
   },
   {
     "id": "la-tag-497",
@@ -3973,7 +4469,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图像恢复",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图像恢复"
   },
   {
     "id": "la-tag-498",
@@ -3981,7 +4478,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图像分割",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图像分割"
   },
   {
     "id": "la-tag-499",
@@ -3989,7 +4487,8 @@
     "category": "线性代数",
     "description": "线性代数标签：压缩",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "压缩"
   },
   {
     "id": "la-tag-500",
@@ -3997,7 +4496,8 @@
     "category": "线性代数",
     "description": "线性代数标签：超分辨",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "超分辨"
   },
   {
     "id": "la-tag-501",
@@ -4005,7 +4505,8 @@
     "category": "线性代数",
     "description": "线性代数标签：重建",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重建"
   },
   {
     "id": "la-tag-502",
@@ -4013,7 +4514,8 @@
     "category": "线性代数",
     "description": "线性代数标签：层析",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "层析"
   },
   {
     "id": "la-tag-503",
@@ -4021,7 +4523,8 @@
     "category": "线性代数",
     "description": "线性代数标签：CT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "ct"
   },
   {
     "id": "la-tag-504",
@@ -4029,7 +4532,8 @@
     "category": "线性代数",
     "description": "线性代数标签：MRI",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "mri"
   },
   {
     "id": "la-tag-505",
@@ -4037,7 +4541,8 @@
     "category": "线性代数",
     "description": "线性代数标签：PET",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "pet"
   },
   {
     "id": "la-tag-506",
@@ -4045,7 +4550,8 @@
     "category": "线性代数",
     "description": "线性代数标签：SPECT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "spect"
   },
   {
     "id": "la-tag-507",
@@ -4053,7 +4559,8 @@
     "category": "线性代数",
     "description": "线性代数标签：射线投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "射线投影"
   },
   {
     "id": "la-tag-508",
@@ -4061,7 +4568,8 @@
     "category": "线性代数",
     "description": "线性代数标签：反投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "反投影"
   },
   {
     "id": "la-tag-509",
@@ -4069,7 +4577,8 @@
     "category": "线性代数",
     "description": "线性代数标签：滤波反投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "滤波反投影"
   },
   {
     "id": "la-tag-510",
@@ -4077,7 +4586,8 @@
     "category": "线性代数",
     "description": "线性代数标签：迭代重建",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迭代重建"
   },
   {
     "id": "la-tag-511",
@@ -4085,7 +4595,8 @@
     "category": "线性代数",
     "description": "线性代数标签：代数重建",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "代数重建"
   },
   {
     "id": "la-tag-512",
@@ -4093,7 +4604,8 @@
     "category": "线性代数",
     "description": "线性代数标签：SIRT",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "sirt"
   },
   {
     "id": "la-tag-513",
@@ -4101,7 +4613,8 @@
     "category": "线性代数",
     "description": "线性代数标签：ART",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "art"
   },
   {
     "id": "la-tag-514",
@@ -4109,7 +4622,8 @@
     "category": "线性代数",
     "description": "线性代数标签：共形几何",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共形几何"
   },
   {
     "id": "la-tag-515",
@@ -4117,7 +4631,8 @@
     "category": "线性代数",
     "description": "线性代数标签：共形映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "共形映射"
   },
   {
     "id": "la-tag-516",
@@ -4125,7 +4640,8 @@
     "category": "线性代数",
     "description": "线性代数标签：开曲面",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "开曲面"
   },
   {
     "id": "la-tag-517",
@@ -4133,7 +4649,8 @@
     "category": "线性代数",
     "description": "线性代数标签：闭曲面",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "闭曲面"
   },
   {
     "id": "la-tag-518",
@@ -4141,7 +4658,8 @@
     "category": "线性代数",
     "description": "线性代数标签：离散曲率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "离散曲率"
   },
   {
     "id": "la-tag-519",
@@ -4149,7 +4667,8 @@
     "category": "线性代数",
     "description": "线性代数标签：离散高斯曲率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "离散高斯曲率"
   },
   {
     "id": "la-tag-520",
@@ -4157,7 +4676,8 @@
     "category": "线性代数",
     "description": "线性代数标签：离散平均曲率",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "离散平均曲率"
   },
   {
     "id": "la-tag-521",
@@ -4165,7 +4685,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉普拉斯-贝尔特拉米",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉普拉斯-贝尔特拉米"
   },
   {
     "id": "la-tag-522",
@@ -4173,7 +4694,8 @@
     "category": "线性代数",
     "description": "线性代数标签：流形学习",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "流形学习"
   },
   {
     "id": "la-tag-523",
@@ -4181,7 +4703,8 @@
     "category": "线性代数",
     "description": "线性代数标签：拉普拉斯特征映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "拉普拉斯特征映射"
   },
   {
     "id": "la-tag-524",
@@ -4189,7 +4712,8 @@
     "category": "线性代数",
     "description": "线性代数标签：局部线性嵌入",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "局部线性嵌入"
   },
   {
     "id": "la-tag-525",
@@ -4197,7 +4721,8 @@
     "category": "线性代数",
     "description": "线性代数标签：等距映射",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "等距映射"
   },
   {
     "id": "la-tag-526",
@@ -4205,7 +4730,8 @@
     "category": "线性代数",
     "description": "线性代数标签：t分布随机邻域嵌入",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "t分布随机邻域嵌入"
   },
   {
     "id": "la-tag-527",
@@ -4213,7 +4739,8 @@
     "category": "线性代数",
     "description": "线性代数标签：统一流形逼近与投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "统一流形逼近与投影"
   },
   {
     "id": "la-tag-528",
@@ -4221,7 +4748,8 @@
     "category": "线性代数",
     "description": "线性代数标签：自编码器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "自编码器"
   },
   {
     "id": "la-tag-529",
@@ -4229,7 +4757,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性自编码器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性自编码器"
   },
   {
     "id": "la-tag-530",
@@ -4237,7 +4766,8 @@
     "category": "线性代数",
     "description": "线性代数标签：主成分分析自编码器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "主成分分析自编码器"
   },
   {
     "id": "la-tag-531",
@@ -4245,7 +4775,8 @@
     "category": "线性代数",
     "description": "线性代数标签：去噪自编码器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "去噪自编码器"
   },
   {
     "id": "la-tag-532",
@@ -4253,7 +4784,8 @@
     "category": "线性代数",
     "description": "线性代数标签：变分自编码器",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "变分自编码器"
   },
   {
     "id": "la-tag-533",
@@ -4261,7 +4793,8 @@
     "category": "线性代数",
     "description": "线性代数标签：生成对抗网络",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "生成对抗网络"
   },
   {
     "id": "la-tag-534",
@@ -4269,7 +4802,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性生成对抗网络",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性生成对抗网络"
   },
   {
     "id": "la-tag-535",
@@ -4277,7 +4811,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对抗样本",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对抗样本"
   },
   {
     "id": "la-tag-536",
@@ -4285,7 +4820,8 @@
     "category": "线性代数",
     "description": "线性代数标签：扰动",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "扰动"
   },
   {
     "id": "la-tag-537",
@@ -4293,7 +4829,8 @@
     "category": "线性代数",
     "description": "线性代数标签：快速梯度符号法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "快速梯度符号法"
   },
   {
     "id": "la-tag-538",
@@ -4301,7 +4838,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影梯度"
   },
   {
     "id": "la-tag-539",
@@ -4309,7 +4847,8 @@
     "category": "线性代数",
     "description": "线性代数标签：迭代攻击",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迭代攻击"
   },
   {
     "id": "la-tag-540",
@@ -4317,7 +4856,8 @@
     "category": "线性代数",
     "description": "线性代数标签：防御",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "防御"
   },
   {
     "id": "la-tag-541",
@@ -4325,7 +4865,8 @@
     "category": "线性代数",
     "description": "线性代数标签：对抗训练",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "对抗训练"
   },
   {
     "id": "la-tag-542",
@@ -4333,7 +4874,8 @@
     "category": "线性代数",
     "description": "线性代数标签：鲁棒性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "鲁棒性"
   },
   {
     "id": "la-tag-543",
@@ -4341,7 +4883,8 @@
     "category": "线性代数",
     "description": "线性代数标签：线性鲁棒性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "线性鲁棒性"
   },
   {
     "id": "la-tag-544",
@@ -4349,7 +4892,8 @@
     "category": "线性代数",
     "description": "线性代数标签：Lipschitz",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "lipschitz"
   },
   {
     "id": "la-tag-545",
@@ -4357,7 +4901,8 @@
     "category": "线性代数",
     "description": "线性代数标签：频谱归一化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "频谱归一化"
   },
   {
     "id": "la-tag-546",
@@ -4365,7 +4910,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异值约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异值约束"
   },
   {
     "id": "la-tag-547",
@@ -4373,7 +4919,8 @@
     "category": "线性代数",
     "description": "线性代数标签：权重衰减",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "权重衰减"
   },
   {
     "id": "la-tag-548",
@@ -4381,7 +4928,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱弛豫",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱弛豫"
   },
   {
     "id": "la-tag-549",
@@ -4389,7 +4937,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正则化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正则化"
   },
   {
     "id": "la-tag-550",
@@ -4397,7 +4946,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱正则化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱正则化"
   },
   {
     "id": "la-tag-551",
@@ -4405,7 +4955,8 @@
     "category": "线性代数",
     "description": "线性代数标签：核范数",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "核范数"
   },
   {
     "id": "la-tag-552",
@@ -4413,7 +4964,8 @@
     "category": "线性代数",
     "description": "线性代数标签：核范数正则化",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "核范数正则化"
   },
   {
     "id": "la-tag-553",
@@ -4421,7 +4973,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵补全",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵补全"
   },
   {
     "id": "la-tag-554",
@@ -4429,7 +4982,8 @@
     "category": "线性代数",
     "description": "线性代数标签：矩阵填充",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "矩阵填充"
   },
   {
     "id": "la-tag-555",
@@ -4437,7 +4991,8 @@
     "category": "线性代数",
     "description": "线性代数标签：奇异值阈值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "奇异值阈值"
   },
   {
     "id": "la-tag-556",
@@ -4445,7 +5000,8 @@
     "category": "线性代数",
     "description": "线性代数标签：软阈值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "软阈值"
   },
   {
     "id": "la-tag-557",
@@ -4453,7 +5009,8 @@
     "category": "线性代数",
     "description": "线性代数标签：硬阈值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "硬阈值"
   },
   {
     "id": "la-tag-558",
@@ -4461,7 +5018,8 @@
     "category": "线性代数",
     "description": "线性代数标签：迭代软阈值",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "迭代软阈值"
   },
   {
     "id": "la-tag-559",
@@ -4469,7 +5027,8 @@
     "category": "线性代数",
     "description": "线性代数标签：加速近端梯度",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "加速近端梯度"
   },
   {
     "id": "la-tag-560",
@@ -4477,7 +5036,8 @@
     "category": "线性代数",
     "description": "线性代数标签：近端算子",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "近端算子"
   },
   {
     "id": "la-tag-561",
@@ -4485,7 +5045,8 @@
     "category": "线性代数",
     "description": "线性代数标签：近端方法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "近端方法"
   },
   {
     "id": "la-tag-562",
@@ -4493,7 +5054,8 @@
     "category": "线性代数",
     "description": "线性代数标签：近端平均",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "近端平均"
   },
   {
     "id": "la-tag-563",
@@ -4501,7 +5063,8 @@
     "category": "线性代数",
     "description": "线性代数标签：近点算法",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "近点算法"
   },
   {
     "id": "la-tag-564",
@@ -4509,7 +5072,8 @@
     "category": "线性代数",
     "description": "线性代数标签：分裂可行性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "分裂可行性"
   },
   {
     "id": "la-tag-565",
@@ -4517,7 +5081,8 @@
     "category": "线性代数",
     "description": "线性代数标签：凸可行性",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "凸可行性"
   },
   {
     "id": "la-tag-566",
@@ -4525,7 +5090,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影到凸集",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影到凸集"
   },
   {
     "id": "la-tag-567",
@@ -4533,7 +5099,8 @@
     "category": "线性代数",
     "description": "线性代数标签：投影到子空间",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "投影到子空间"
   },
   {
     "id": "la-tag-568",
@@ -4541,7 +5108,8 @@
     "category": "线性代数",
     "description": "线性代数标签：斜投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "斜投影"
   },
   {
     "id": "la-tag-569",
@@ -4549,7 +5117,8 @@
     "category": "线性代数",
     "description": "线性代数标签：正交投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "正交投影"
   },
   {
     "id": "la-tag-570",
@@ -4557,7 +5126,8 @@
     "category": "线性代数",
     "description": "线性代数标签：谱投影",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "谱投影"
   },
   {
     "id": "la-tag-571",
@@ -4565,7 +5135,8 @@
     "category": "线性代数",
     "description": "线性代数标签：群约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "群约束"
   },
   {
     "id": "la-tag-572",
@@ -4573,7 +5144,8 @@
     "category": "线性代数",
     "description": "线性代数标签：结构稀疏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构稀疏"
   },
   {
     "id": "la-tag-573",
@@ -4581,7 +5153,8 @@
     "category": "线性代数",
     "description": "线性代数标签：组稀疏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "组稀疏"
   },
   {
     "id": "la-tag-574",
@@ -4589,7 +5162,8 @@
     "category": "线性代数",
     "description": "线性代数标签：重叠组",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "重叠组"
   },
   {
     "id": "la-tag-575",
@@ -4597,7 +5171,8 @@
     "category": "线性代数",
     "description": "线性代数标签：树结构稀疏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "树结构稀疏"
   },
   {
     "id": "la-tag-576",
@@ -4605,7 +5180,8 @@
     "category": "线性代数",
     "description": "线性代数标签：图结构稀疏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "图结构稀疏"
   },
   {
     "id": "la-tag-577",
@@ -4613,7 +5189,8 @@
     "category": "线性代数",
     "description": "线性代数标签：融合LASSO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "融合lasso"
   },
   {
     "id": "la-tag-578",
@@ -4621,7 +5198,8 @@
     "category": "线性代数",
     "description": "线性代数标签：聚类LASSO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "聚类lasso"
   },
   {
     "id": "la-tag-579",
@@ -4629,7 +5207,8 @@
     "category": "线性代数",
     "description": "线性代数标签：稀疏组LASSO",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "稀疏组lasso"
   },
   {
     "id": "la-tag-580",
@@ -4637,7 +5216,8 @@
     "category": "线性代数",
     "description": "线性代数标签：结构约束",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "结构约束"
   },
   {
     "id": "la-tag-581",
@@ -4645,7 +5225,8 @@
     "category": "线性代数",
     "description": "线性代数标签：高斯图模型",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "高斯图模型"
   },
   {
     "id": "la-tag-582",
@@ -4653,7 +5234,8 @@
     "category": "线性代数",
     "description": "线性代数标签：协方差选择",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "协方差选择"
   },
   {
     "id": "la-tag-583",
@@ -4661,7 +5243,8 @@
     "category": "线性代数",
     "description": "线性代数标签：邻域选择",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "邻域选择"
   },
   {
     "id": "la-tag-584",
@@ -4669,7 +5252,8 @@
     "category": "线性代数",
     "description": "线性代数标签：双重稀疏",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "双重稀疏"
   },
   {
     "id": "la-tag-585",
@@ -4677,7 +5261,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量回归",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量回归"
   },
   {
     "id": "la-tag-586",
@@ -4685,7 +5270,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量补全",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量补全"
   },
   {
     "id": "la-tag-587",
@@ -4693,7 +5279,8 @@
     "category": "线性代数",
     "description": "线性代数标签：张量填充",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量填充"
   },
   {
     "id": "la-tag-588",
@@ -4701,6 +5288,7 @@
     "category": "线性代数",
     "description": "线性代数标签：张量鲁棒",
     "count": 0,
-    "createdAt": "2026-07-02T00:00:00.000Z"
+    "createdAt": "2026-07-02T00:00:00.000Z",
+    "slug": "张量鲁棒"
   }
 ]

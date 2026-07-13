@@ -25,7 +25,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数的学科体系\n\n线性代数的学科体系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数的学科体系的核心知识。",
+    "knowledgePoints": [
+      "la-kp-001",
+      "la-kp-002"
+    ]
   },
   {
     "id": "la-lesson-002",
@@ -52,7 +57,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数学习策略\n\n线性代数学习策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数学习策略的核心知识。",
+    "knowledgePoints": [
+      "la-kp-003"
+    ]
   },
   {
     "id": "la-lesson-003",
@@ -80,7 +89,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数的几何意义\n\n线性代数的几何意义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数的几何意义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-004",
+      "la-kp-005"
+    ]
   },
   {
     "id": "la-lesson-004",
@@ -107,7 +121,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数发展简史\n\n线性代数发展简史的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数发展简史的核心知识。",
+    "knowledgePoints": [
+      "la-kp-006"
+    ]
   },
   {
     "id": "la-lesson-005",
@@ -134,7 +152,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数在工程中的应用\n\n线性代数在工程中的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数在工程中的应用的核心知识。",
+    "knowledgePoints": [
+      "la-kp-007"
+    ]
   },
   {
     "id": "la-lesson-006",
@@ -161,7 +183,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数与数据科学\n\n线性代数与数据科学的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数与数据科学的核心知识。",
+    "knowledgePoints": [
+      "la-kp-008"
+    ]
   },
   {
     "id": "la-lesson-007",
@@ -190,7 +216,13 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的定义\n\n行列式的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-009",
+      "la-kp-010",
+      "la-kp-011"
+    ]
   },
   {
     "id": "la-lesson-008",
@@ -217,7 +249,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二阶行列式\n\n二阶行列式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二阶行列式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-012"
+    ]
   },
   {
     "id": "la-lesson-009",
@@ -244,7 +280,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三阶行列式\n\n三阶行列式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了三阶行列式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-013"
+    ]
   },
   {
     "id": "la-lesson-010",
@@ -271,7 +311,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对角线法则\n\n对角线法则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了对角线法则的核心知识。",
+    "knowledgePoints": [
+      "la-kp-014"
+    ]
   },
   {
     "id": "la-lesson-011",
@@ -299,7 +343,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的基本性质\n\n行列式的基本性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式的基本性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-015",
+      "la-kp-016"
+    ]
   },
   {
     "id": "la-lesson-012",
@@ -326,7 +375,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的转置\n\n行列式的转置的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式的转置的核心知识。",
+    "knowledgePoints": [
+      "la-kp-017"
+    ]
   },
   {
     "id": "la-lesson-013",
@@ -353,7 +406,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的多重线性\n\n行列式的多重线性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式的多重线性的核心知识。",
+    "knowledgePoints": [
+      "la-kp-018"
+    ]
   },
   {
     "id": "la-lesson-014",
@@ -380,7 +437,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式为零的条件\n\n行列式为零的条件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式为零的条件的核心知识。",
+    "knowledgePoints": [
+      "la-kp-019"
+    ]
   },
   {
     "id": "la-lesson-015",
@@ -408,7 +469,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 余子式的概念\n\n余子式的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了余子式的概念的核心知识。",
+    "knowledgePoints": [
+      "la-kp-020",
+      "la-kp-021"
+    ]
   },
   {
     "id": "la-lesson-016",
@@ -435,7 +501,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 代数余子式\n\n代数余子式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了代数余子式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-022"
+    ]
   },
   {
     "id": "la-lesson-017",
@@ -463,7 +533,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式按行展开\n\n行列式按行展开的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式按行展开的核心知识。",
+    "knowledgePoints": [
+      "la-kp-023",
+      "la-kp-024"
+    ]
   },
   {
     "id": "la-lesson-018",
@@ -490,7 +565,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式按列展开\n\n行列式按列展开的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式按列展开的核心知识。",
+    "knowledgePoints": [
+      "la-kp-025"
+    ]
   },
   {
     "id": "la-lesson-019",
@@ -517,7 +596,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 范德蒙行列式\n\n范德蒙行列式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了范德蒙行列式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-026"
+    ]
   },
   {
     "id": "la-lesson-020",
@@ -545,7 +628,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 克拉默法则\n\n克拉默法则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了克拉默法则的核心知识。",
+    "knowledgePoints": [
+      "la-kp-027",
+      "la-kp-028"
+    ]
   },
   {
     "id": "la-lesson-021",
@@ -572,7 +660,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的递推计算\n\n行列式的递推计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式的递推计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-029"
+    ]
   },
   {
     "id": "la-lesson-022",
@@ -599,7 +691,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 三角行列式的值\n\n三角行列式的值的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了三角行列式的值的核心知识。",
+    "knowledgePoints": [
+      "la-kp-030"
+    ]
   },
   {
     "id": "la-lesson-023",
@@ -627,7 +723,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的定义\n\n矩阵的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-031",
+      "la-kp-032"
+    ]
   },
   {
     "id": "la-lesson-024",
@@ -654,7 +755,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 几种特殊矩阵\n\n几种特殊矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了几种特殊矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-033"
+    ]
   },
   {
     "id": "la-lesson-025",
@@ -681,7 +786,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的加法\n\n矩阵的加法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵的加法的核心知识。",
+    "knowledgePoints": [
+      "la-kp-034"
+    ]
   },
   {
     "id": "la-lesson-026",
@@ -708,7 +817,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数与矩阵的乘法\n\n数与矩阵的乘法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数与矩阵的乘法的核心知识。",
+    "knowledgePoints": [
+      "la-kp-035"
+    ]
   },
   {
     "id": "la-lesson-027",
@@ -736,7 +849,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的乘法\n\n矩阵的乘法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵的乘法的核心知识。",
+    "knowledgePoints": [
+      "la-kp-036",
+      "la-kp-037"
+    ]
   },
   {
     "id": "la-lesson-028",
@@ -763,7 +881,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵乘法的性质\n\n矩阵乘法的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵乘法的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-038"
+    ]
   },
   {
     "id": "la-lesson-029",
@@ -790,7 +912,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的转置\n\n矩阵的转置的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵的转置的核心知识。",
+    "knowledgePoints": [
+      "la-kp-039"
+    ]
   },
   {
     "id": "la-lesson-030",
@@ -818,7 +944,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对称矩阵与反对称矩阵\n\n对称矩阵与反对称矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了对称矩阵与反对称矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-040",
+      "la-kp-041"
+    ]
   },
   {
     "id": "la-lesson-031",
@@ -845,7 +976,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方阵的行列式\n\n方阵的行列式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方阵的行列式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-042"
+    ]
   },
   {
     "id": "la-lesson-032",
@@ -872,7 +1007,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵多项式的计算\n\n矩阵多项式的计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵多项式的计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-043"
+    ]
   },
   {
     "id": "la-lesson-033",
@@ -900,7 +1039,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 逆矩阵的定义\n\n逆矩阵的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了逆矩阵的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-044",
+      "la-kp-045"
+    ]
   },
   {
     "id": "la-lesson-034",
@@ -927,7 +1071,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 逆矩阵的性质\n\n逆矩阵的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了逆矩阵的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-046"
+    ]
   },
   {
     "id": "la-lesson-035",
@@ -955,7 +1103,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伴随矩阵求逆\n\n伴随矩阵求逆的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了伴随矩阵求逆的核心知识。",
+    "knowledgePoints": [
+      "la-kp-047",
+      "la-kp-048"
+    ]
   },
   {
     "id": "la-lesson-036",
@@ -983,7 +1136,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等变换求逆\n\n初等变换求逆的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等变换求逆的核心知识。",
+    "knowledgePoints": [
+      "la-kp-049",
+      "la-kp-050"
+    ]
   },
   {
     "id": "la-lesson-037",
@@ -1011,7 +1169,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等矩阵\n\n初等矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-051",
+      "la-kp-052"
+    ]
   },
   {
     "id": "la-lesson-038",
@@ -1038,7 +1201,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行阶梯形矩阵\n\n行阶梯形矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行阶梯形矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-053"
+    ]
   },
   {
     "id": "la-lesson-039",
@@ -1065,7 +1232,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最简形矩阵\n\n最简形矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了最简形矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-054"
+    ]
   },
   {
     "id": "la-lesson-040",
@@ -1092,7 +1263,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵等价\n\n矩阵等价的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵等价的核心知识。",
+    "knowledgePoints": [
+      "la-kp-055"
+    ]
   },
   {
     "id": "la-lesson-041",
@@ -1119,7 +1294,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等变换的性质\n\n初等变换的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等变换的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-056"
+    ]
   },
   {
     "id": "la-lesson-042",
@@ -1147,7 +1326,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的秩的定义\n\n矩阵的秩的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵的秩的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-057",
+      "la-kp-058"
+    ]
   },
   {
     "id": "la-lesson-043",
@@ -1175,7 +1359,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等变换求秩\n\n初等变换求秩的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了初等变换求秩的核心知识。",
+    "knowledgePoints": [
+      "la-kp-059",
+      "la-kp-060"
+    ]
   },
   {
     "id": "la-lesson-044",
@@ -1202,7 +1391,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 秩的性质\n\n秩的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了秩的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-061"
+    ]
   },
   {
     "id": "la-lesson-045",
@@ -1229,7 +1422,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 满秩矩阵与降秩矩阵\n\n满秩矩阵与降秩矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了满秩矩阵与降秩矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-062"
+    ]
   },
   {
     "id": "la-lesson-046",
@@ -1256,7 +1453,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 秩与行列式关系\n\n秩与行列式关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了秩与行列式关系的核心知识。",
+    "knowledgePoints": [
+      "la-kp-063"
+    ]
   },
   {
     "id": "la-lesson-047",
@@ -1283,7 +1484,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵乘积的秩\n\n矩阵乘积的秩的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵乘积的秩的核心知识。",
+    "knowledgePoints": [
+      "la-kp-064"
+    ]
   },
   {
     "id": "la-lesson-048",
@@ -1311,7 +1516,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性方程组的基本概念\n\n线性方程组的基本概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性方程组的基本概念的核心知识。",
+    "knowledgePoints": [
+      "la-kp-065",
+      "la-kp-066"
+    ]
   },
   {
     "id": "la-lesson-049",
@@ -1339,7 +1549,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高斯消元法\n\n高斯消元法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了高斯消元法的核心知识。",
+    "knowledgePoints": [
+      "la-kp-067",
+      "la-kp-068"
+    ]
   },
   {
     "id": "la-lesson-050",
@@ -1367,7 +1582,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 齐次线性方程组\n\n齐次线性方程组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了齐次线性方程组的核心知识。",
+    "knowledgePoints": [
+      "la-kp-069",
+      "la-kp-070"
+    ]
   },
   {
     "id": "la-lesson-051",
@@ -1395,7 +1615,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 非齐次线性方程组\n\n非齐次线性方程组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了非齐次线性方程组的核心知识。",
+    "knowledgePoints": [
+      "la-kp-071",
+      "la-kp-072"
+    ]
   },
   {
     "id": "la-lesson-052",
@@ -1423,7 +1648,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基础解系\n\n基础解系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了基础解系的核心知识。",
+    "knowledgePoints": [
+      "la-kp-073",
+      "la-kp-074"
+    ]
   },
   {
     "id": "la-lesson-053",
@@ -1450,7 +1680,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 通解的表示\n\n通解的表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了通解的表示的核心知识。",
+    "knowledgePoints": [
+      "la-kp-075"
+    ]
   },
   {
     "id": "la-lesson-054",
@@ -1477,7 +1711,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 解的结构定理\n\n解的结构定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了解的结构定理的核心知识。",
+    "knowledgePoints": [
+      "la-kp-076"
+    ]
   },
   {
     "id": "la-lesson-055",
@@ -1505,7 +1743,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性方程组有解判定\n\n线性方程组有解判定的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性方程组有解判定的核心知识。",
+    "knowledgePoints": [
+      "la-kp-077",
+      "la-kp-078"
+    ]
   },
   {
     "id": "la-lesson-056",
@@ -1533,7 +1776,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# n维向量的概念\n\nn维向量的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了n维向量的概念的核心知识。",
+    "knowledgePoints": [
+      "la-kp-079",
+      "la-kp-080"
+    ]
   },
   {
     "id": "la-lesson-057",
@@ -1560,7 +1808,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量的线性运算\n\n向量的线性运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了向量的线性运算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-081"
+    ]
   },
   {
     "id": "la-lesson-058",
@@ -1588,7 +1840,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性组合\n\n线性组合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性组合的核心知识。",
+    "knowledgePoints": [
+      "la-kp-082",
+      "la-kp-083"
+    ]
   },
   {
     "id": "la-lesson-059",
@@ -1615,7 +1872,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性表示\n\n线性表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性表示的核心知识。",
+    "knowledgePoints": [
+      "la-kp-084"
+    ]
   },
   {
     "id": "la-lesson-060",
@@ -1643,7 +1904,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性相关的定义\n\n线性相关的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性相关的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-085",
+      "la-kp-086"
+    ]
   },
   {
     "id": "la-lesson-061",
@@ -1670,7 +1936,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性无关的定义\n\n线性无关的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性无关的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-087"
+    ]
   },
   {
     "id": "la-lesson-062",
@@ -1697,7 +1967,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性相关的性质\n\n线性相关的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性相关的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-088"
+    ]
   },
   {
     "id": "la-lesson-063",
@@ -1724,7 +1998,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性无关的性质\n\n线性无关的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性无关的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-089"
+    ]
   },
   {
     "id": "la-lesson-064",
@@ -1752,7 +2030,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量组的秩\n\n向量组的秩的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了向量组的秩的核心知识。",
+    "knowledgePoints": [
+      "la-kp-090",
+      "la-kp-091"
+    ]
   },
   {
     "id": "la-lesson-065",
@@ -1780,7 +2063,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极大线性无关组\n\n极大线性无关组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了极大线性无关组的核心知识。",
+    "knowledgePoints": [
+      "la-kp-092",
+      "la-kp-093"
+    ]
   },
   {
     "id": "la-lesson-066",
@@ -1807,7 +2095,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 等价向量组\n\n等价向量组的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了等价向量组的核心知识。",
+    "knowledgePoints": [
+      "la-kp-094"
+    ]
   },
   {
     "id": "la-lesson-067",
@@ -1829,7 +2121,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量空间的定义\n\n向量空间的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了向量空间的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-095",
+      "la-kp-096"
+    ]
   },
   {
     "id": "la-lesson-068",
@@ -1851,7 +2148,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 子空间\n\n子空间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了子空间的核心知识。",
+    "knowledgePoints": [
+      "la-kp-097",
+      "la-kp-098"
+    ]
   },
   {
     "id": "la-lesson-069",
@@ -1873,7 +2175,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基与维数\n\n基与维数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了基与维数的核心知识。",
+    "knowledgePoints": [
+      "la-kp-099",
+      "la-kp-100"
+    ]
   },
   {
     "id": "la-lesson-070",
@@ -1894,7 +2201,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量在基下的坐标\n\n向量在基下的坐标的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了向量在基下的坐标的核心知识。",
+    "knowledgePoints": [
+      "la-kp-101"
+    ]
   },
   {
     "id": "la-lesson-071",
@@ -1916,7 +2227,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基变换与坐标变换\n\n基变换与坐标变换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了基变换与坐标变换的核心知识。",
+    "knowledgePoints": [
+      "la-kp-102",
+      "la-kp-103"
+    ]
   },
   {
     "id": "la-lesson-072",
@@ -1937,7 +2253,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 过渡矩阵\n\n过渡矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了过渡矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-104"
+    ]
   },
   {
     "id": "la-lesson-073",
@@ -1958,7 +2278,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Rn空间的标准基\n\nRn空间的标准基的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了Rn空间的标准基的核心知识。",
+    "knowledgePoints": [
+      "la-kp-105"
+    ]
   },
   {
     "id": "la-lesson-074",
@@ -1979,7 +2303,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行空间与列空间\n\n行空间与列空间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行空间与列空间的核心知识。",
+    "knowledgePoints": [
+      "la-kp-106"
+    ]
   },
   {
     "id": "la-lesson-075",
@@ -2008,7 +2336,13 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值与特征向量的定义\n\n特征值与特征向量的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值与特征向量的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-107",
+      "la-kp-108",
+      "la-kp-109"
+    ]
   },
   {
     "id": "la-lesson-076",
@@ -2036,7 +2370,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征多项式\n\n特征多项式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征多项式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-110",
+      "la-kp-111"
+    ]
   },
   {
     "id": "la-lesson-077",
@@ -2063,7 +2402,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征方程\n\n特征方程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征方程的核心知识。",
+    "knowledgePoints": [
+      "la-kp-112"
+    ]
   },
   {
     "id": "la-lesson-078",
@@ -2090,7 +2433,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值的性质\n\n特征值的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-113"
+    ]
   },
   {
     "id": "la-lesson-079",
@@ -2117,7 +2464,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征向量的性质\n\n特征向量的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征向量的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-114"
+    ]
   },
   {
     "id": "la-lesson-080",
@@ -2144,7 +2495,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值与迹的关系\n\n特征值与迹的关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值与迹的关系的核心知识。",
+    "knowledgePoints": [
+      "la-kp-115"
+    ]
   },
   {
     "id": "la-lesson-081",
@@ -2171,7 +2526,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值与行列式的关系\n\n特征值与行列式的关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值与行列式的关系的核心知识。",
+    "knowledgePoints": [
+      "la-kp-116"
+    ]
   },
   {
     "id": "la-lesson-082",
@@ -2198,7 +2557,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征空间\n\n特征空间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征空间的核心知识。",
+    "knowledgePoints": [
+      "la-kp-117"
+    ]
   },
   {
     "id": "la-lesson-083",
@@ -2225,7 +2588,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值重数与几何重数\n\n特征值重数与几何重数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值重数与几何重数的核心知识。",
+    "knowledgePoints": [
+      "la-kp-118"
+    ]
   },
   {
     "id": "la-lesson-084",
@@ -2253,7 +2620,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相似矩阵的定义\n\n相似矩阵的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了相似矩阵的定义的核心知识。",
+    "knowledgePoints": [
+      "la-kp-119",
+      "la-kp-120"
+    ]
   },
   {
     "id": "la-lesson-085",
@@ -2280,7 +2652,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相似矩阵的性质\n\n相似矩阵的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了相似矩阵的性质的核心知识。",
+    "knowledgePoints": [
+      "la-kp-121"
+    ]
   },
   {
     "id": "la-lesson-086",
@@ -2308,7 +2684,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 对角化的概念\n\n对角化的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了对角化的概念的核心知识。",
+    "knowledgePoints": [
+      "la-kp-122",
+      "la-kp-123"
+    ]
   },
   {
     "id": "la-lesson-087",
@@ -2335,7 +2716,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵可对角化的条件\n\n矩阵可对角化的条件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵可对角化的条件的核心知识。",
+    "knowledgePoints": [
+      "la-kp-124"
+    ]
   },
   {
     "id": "la-lesson-088",
@@ -2362,7 +2747,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不可对角化的情形\n\n不可对角化的情形的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了不可对角化的情形的核心知识。",
+    "knowledgePoints": [
+      "la-kp-125"
+    ]
   },
   {
     "id": "la-lesson-089",
@@ -2390,7 +2779,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 实对称矩阵的对角化\n\n实对称矩阵的对角化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了实对称矩阵的对角化的核心知识。",
+    "knowledgePoints": [
+      "la-kp-126",
+      "la-kp-127"
+    ]
   },
   {
     "id": "la-lesson-090",
@@ -2418,7 +2812,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交矩阵\n\n正交矩阵的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正交矩阵的核心知识。",
+    "knowledgePoints": [
+      "la-kp-128",
+      "la-kp-129"
+    ]
   },
   {
     "id": "la-lesson-091",
@@ -2446,7 +2845,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 施密特正交化\n\n施密特正交化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了施密特正交化的核心知识。",
+    "knowledgePoints": [
+      "la-kp-130",
+      "la-kp-131"
+    ]
   },
   {
     "id": "la-lesson-092",
@@ -2473,7 +2877,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交变换\n\n正交变换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正交变换的核心知识。",
+    "knowledgePoints": [
+      "la-kp-132"
+    ]
   },
   {
     "id": "la-lesson-093",
@@ -2500,7 +2908,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 谱分解\n\n谱分解的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了谱分解的核心知识。",
+    "knowledgePoints": [
+      "la-kp-133"
+    ]
   },
   {
     "id": "la-lesson-094",
@@ -2528,7 +2940,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型的概念\n\n二次型的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二次型的概念的核心知识。",
+    "knowledgePoints": [
+      "la-kp-134",
+      "la-kp-135"
+    ]
   },
   {
     "id": "la-lesson-095",
@@ -2556,7 +2973,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型的矩阵表示\n\n二次型的矩阵表示的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二次型的矩阵表示的核心知识。",
+    "knowledgePoints": [
+      "la-kp-136",
+      "la-kp-137"
+    ]
   },
   {
     "id": "la-lesson-096",
@@ -2584,7 +3006,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 合同变换\n\n合同变换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了合同变换的核心知识。",
+    "knowledgePoints": [
+      "la-kp-138",
+      "la-kp-139"
+    ]
   },
   {
     "id": "la-lesson-097",
@@ -2612,7 +3039,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 配方法化标准形\n\n配方法化标准形的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了配方法化标准形的核心知识。",
+    "knowledgePoints": [
+      "la-kp-140",
+      "la-kp-141"
+    ]
   },
   {
     "id": "la-lesson-098",
@@ -2639,7 +3071,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交变换化标准形\n\n正交变换化标准形的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正交变换化标准形的核心知识。",
+    "knowledgePoints": [
+      "la-kp-142"
+    ]
   },
   {
     "id": "la-lesson-099",
@@ -2666,7 +3102,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 惯性定理\n\n惯性定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了惯性定理的核心知识。",
+    "knowledgePoints": [
+      "la-kp-143"
+    ]
   },
   {
     "id": "la-lesson-100",
@@ -2693,7 +3133,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 规范形\n\n规范形的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了规范形的核心知识。",
+    "knowledgePoints": [
+      "la-kp-144"
+    ]
   },
   {
     "id": "la-lesson-101",
@@ -2721,7 +3165,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正定二次型\n\n正定二次型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正定二次型的核心知识。",
+    "knowledgePoints": [
+      "la-kp-145",
+      "la-kp-146"
+    ]
   },
   {
     "id": "la-lesson-102",
@@ -2749,7 +3198,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正定矩阵的判定\n\n正定矩阵的判定的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正定矩阵的判定的核心知识。",
+    "knowledgePoints": [
+      "la-kp-147",
+      "la-kp-148"
+    ]
   },
   {
     "id": "la-lesson-103",
@@ -2776,7 +3230,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 顺序主子式\n\n顺序主子式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了顺序主子式的核心知识。",
+    "knowledgePoints": [
+      "la-kp-149"
+    ]
   },
   {
     "id": "la-lesson-104",
@@ -2804,7 +3262,12 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式综合计算\n\n行列式综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式综合计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-150",
+      "la-kp-151"
+    ]
   },
   {
     "id": "la-lesson-105",
@@ -2831,7 +3294,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵综合计算\n\n矩阵综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵综合计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-152"
+    ]
   },
   {
     "id": "la-lesson-106",
@@ -2858,7 +3325,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方程组与向量综合\n\n方程组与向量综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方程组与向量综合的核心知识。",
+    "knowledgePoints": [
+      "la-kp-153"
+    ]
   },
   {
     "id": "la-lesson-107",
@@ -2885,7 +3356,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值综合计算\n\n特征值综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值综合计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-154"
+    ]
   },
   {
     "id": "la-lesson-108",
@@ -2912,7 +3387,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型综合计算\n\n二次型综合计算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二次型综合计算的核心知识。",
+    "knowledgePoints": [
+      "la-kp-155"
+    ]
   },
   {
     "id": "la-lesson-109",
@@ -2939,7 +3418,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性方程组与秩综合\n\n线性方程组与秩综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性方程组与秩综合的核心知识。",
+    "knowledgePoints": [
+      "la-kp-156"
+    ]
   },
   {
     "id": "la-lesson-110",
@@ -2966,7 +3449,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵分解综合\n\n矩阵分解综合的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵分解综合的核心知识。",
+    "knowledgePoints": [
+      "la-kp-157"
+    ]
   },
   {
     "id": "la-lesson-111",
@@ -2993,7 +3480,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数综合应用\n\n线性代数综合应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性代数综合应用的核心知识。",
+    "knowledgePoints": [
+      "la-kp-158"
+    ]
   },
   {
     "id": "la-lesson-112",
@@ -3020,7 +3511,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 易错题辨析\n\n易错题辨析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了易错题辨析的核心知识。",
+    "knowledgePoints": [
+      "la-kp-159"
+    ]
   },
   {
     "id": "la-lesson-113",
@@ -3047,7 +3542,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合证明题\n\n综合证明题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合证明题的核心知识。",
+    "knowledgePoints": [
+      "la-kp-160"
+    ]
   },
   {
     "id": "la-lesson-114",
@@ -3074,7 +3573,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式复习\n\n行列式复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了行列式复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-161"
+    ]
   },
   {
     "id": "la-lesson-115",
@@ -3101,7 +3604,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵复习\n\n矩阵复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩阵复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-162"
+    ]
   },
   {
     "id": "la-lesson-116",
@@ -3128,7 +3635,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性方程组复习\n\n线性方程组复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了线性方程组复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-163"
+    ]
   },
   {
     "id": "la-lesson-117",
@@ -3155,7 +3666,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量组复习\n\n向量组复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了向量组复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-164"
+    ]
   },
   {
     "id": "la-lesson-118",
@@ -3182,7 +3697,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值特征向量复习\n\n特征值特征向量复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了特征值特征向量复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-165"
+    ]
   },
   {
     "id": "la-lesson-119",
@@ -3209,7 +3728,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型复习\n\n二次型复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二次型复习的核心知识。",
+    "knowledgePoints": [
+      "la-kp-166"
+    ]
   },
   {
     "id": "la-lesson-120",
@@ -3236,7 +3759,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合模拟考试一\n\n综合模拟考试一的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合模拟考试一的核心知识。",
+    "knowledgePoints": [
+      "la-kp-167"
+    ]
   },
   {
     "id": "la-lesson-121",
@@ -3263,7 +3790,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合模拟考试二\n\n综合模拟考试二的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合模拟考试二的核心知识。",
+    "knowledgePoints": [
+      "la-kp-168"
+    ]
   },
   {
     "id": "la-lesson-122",
@@ -3290,7 +3821,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研数学线代基础重点\n\n考研数学线代基础重点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考研数学线代基础重点的核心知识。",
+    "knowledgePoints": [
+      "la-kp-169"
+    ]
   },
   {
     "id": "la-lesson-123",
@@ -3317,7 +3852,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺策略\n\n考前冲刺策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考前冲刺策略的核心知识。",
+    "knowledgePoints": [
+      "la-kp-170"
+    ]
   },
   {
     "id": "la-lesson-124",
@@ -3338,7 +3877,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数与几何直观\n\n线性代数与几何直观的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0124"
+    ]
   },
   {
     "id": "la-lesson-125",
@@ -3359,7 +3902,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量空间的例子\n\n向量空间的例子的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0125"
+    ]
   },
   {
     "id": "la-lesson-126",
@@ -3380,7 +3927,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数在物理中的应用\n\n线性代数在物理中的应用的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0126"
+    ]
   },
   {
     "id": "la-lesson-127",
@@ -3401,7 +3952,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式与体积的关系\n\n行列式与体积的关系的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0127"
+    ]
   },
   {
     "id": "la-lesson-128",
@@ -3422,7 +3977,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# n阶行列式的递归定义\n\nn阶行列式的递归定义的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0128"
+    ]
   },
   {
     "id": "la-lesson-129",
@@ -3443,7 +4002,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式的分拆性质\n\n行列式的分拆性质的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0129"
+    ]
   },
   {
     "id": "la-lesson-130",
@@ -3464,7 +4027,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 追赶法计算三对角行列式\n\n追赶法计算三对角行列式的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0130"
+    ]
   },
   {
     "id": "la-lesson-131",
@@ -3485,7 +4052,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 递推法计算特殊行列式\n\n递推法计算特殊行列式的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0131"
+    ]
   },
   {
     "id": "la-lesson-132",
@@ -3506,7 +4077,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式与矩阵可逆性\n\n行列式与矩阵可逆性的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0132"
+    ]
   },
   {
     "id": "la-lesson-133",
@@ -3527,7 +4102,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分块矩阵的运算\n\n分块矩阵的运算的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0133"
+    ]
   },
   {
     "id": "la-lesson-134",
@@ -3548,7 +4127,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的克罗内克积\n\n矩阵的克罗内克积的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0134"
+    ]
   },
   {
     "id": "la-lesson-135",
@@ -3569,7 +4152,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的向量化算子\n\n矩阵的向量化算子的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0135"
+    ]
   },
   {
     "id": "la-lesson-136",
@@ -3590,7 +4177,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可逆矩阵与线性方程组\n\n可逆矩阵与线性方程组的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0136"
+    ]
   },
   {
     "id": "la-lesson-137",
@@ -3611,7 +4202,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 初等变换在线性代数中的地位\n\n初等变换在线性代数中的地位的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0137"
+    ]
   },
   {
     "id": "la-lesson-138",
@@ -3632,7 +4227,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的LU分解入门\n\n矩阵的LU分解入门的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0138"
+    ]
   },
   {
     "id": "la-lesson-139",
@@ -3653,7 +4252,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 秩与线性方程组解的关系\n\n秩与线性方程组解的关系的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0139"
+    ]
   },
   {
     "id": "la-lesson-140",
@@ -3674,7 +4277,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 满秩分解\n\n满秩分解的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0140"
+    ]
   },
   {
     "id": "la-lesson-141",
@@ -3695,7 +4302,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 秩与线性变换的维数关系\n\n秩与线性变换的维数关系的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0141"
+    ]
   },
   {
     "id": "la-lesson-142",
@@ -3716,7 +4327,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性方程组的几何解释\n\n线性方程组的几何解释的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0142"
+    ]
   },
   {
     "id": "la-lesson-143",
@@ -3737,7 +4352,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 超平面方程组\n\n超平面方程组的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0143"
+    ]
   },
   {
     "id": "la-lesson-144",
@@ -3758,7 +4377,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 齐次方程组解空间\n\n齐次方程组解空间的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0144"
+    ]
   },
   {
     "id": "la-lesson-145",
@@ -3779,7 +4402,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 非齐次方程组的参数解法\n\n非齐次方程组的参数解法的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0145"
+    ]
   },
   {
     "id": "la-lesson-146",
@@ -3800,7 +4427,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 含参数方程组的讨论\n\n含参数方程组的讨论的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0146"
+    ]
   },
   {
     "id": "la-lesson-147",
@@ -3821,7 +4452,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量组的线性表示判断\n\n向量组的线性表示判断的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0147"
+    ]
   },
   {
     "id": "la-lesson-148",
@@ -3842,7 +4477,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量组的等价性\n\n向量组的等价性的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0148"
+    ]
   },
   {
     "id": "la-lesson-149",
@@ -3863,7 +4502,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性相关性的判定技巧\n\n线性相关性的判定技巧的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0149"
+    ]
   },
   {
     "id": "la-lesson-150",
@@ -3884,7 +4527,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 极大无关组的几何意义\n\n极大无关组的几何意义的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0150"
+    ]
   },
   {
     "id": "la-lesson-151",
@@ -3905,7 +4552,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 向量空间的同构\n\n向量空间的同构的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0151"
+    ]
   },
   {
     "id": "la-lesson-152",
@@ -3926,7 +4577,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 子空间的交与和\n\n子空间的交与和的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0152"
+    ]
   },
   {
     "id": "la-lesson-153",
@@ -3947,7 +4602,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 维数公式的应用\n\n维数公式的应用的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0153"
+    ]
   },
   {
     "id": "la-lesson-154",
@@ -3968,7 +4627,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 直和的概念\n\n直和的概念的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0154"
+    ]
   },
   {
     "id": "la-lesson-155",
@@ -3989,7 +4652,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值的几何解释\n\n特征值的几何解释的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0155"
+    ]
   },
   {
     "id": "la-lesson-156",
@@ -4010,7 +4677,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵的谱与谱半径\n\n矩阵的谱与谱半径的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0156"
+    ]
   },
   {
     "id": "la-lesson-157",
@@ -4031,7 +4702,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值与微分方程\n\n特征值与微分方程的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0157"
+    ]
   },
   {
     "id": "la-lesson-158",
@@ -4052,7 +4727,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 幂法与特征值计算\n\n幂法与特征值计算的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0158"
+    ]
   },
   {
     "id": "la-lesson-159",
@@ -4073,7 +4752,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相似变换的几何意义\n\n相似变换的几何意义的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0159"
+    ]
   },
   {
     "id": "la-lesson-160",
@@ -4094,7 +4777,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 若尔当标准形简介\n\n若尔当标准形简介的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0160"
+    ]
   },
   {
     "id": "la-lesson-161",
@@ -4115,7 +4802,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 实对称矩阵的谱分解\n\n实对称矩阵的谱分解的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0161"
+    ]
   },
   {
     "id": "la-lesson-162",
@@ -4136,7 +4827,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交对角化步骤\n\n正交对角化步骤的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0162"
+    ]
   },
   {
     "id": "la-lesson-163",
@@ -4157,7 +4852,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 拉格朗日配方法\n\n拉格朗日配方法的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0163"
+    ]
   },
   {
     "id": "la-lesson-164",
@@ -4178,7 +4877,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正交变换化二次型\n\n正交变换化二次型的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0164"
+    ]
   },
   {
     "id": "la-lesson-165",
@@ -4199,7 +4902,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正定矩阵的应用\n\n正定矩阵的应用的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0165"
+    ]
   },
   {
     "id": "la-lesson-166",
@@ -4220,7 +4927,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正定矩阵的开方\n\n正定矩阵的开方的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0166"
+    ]
   },
   {
     "id": "la-lesson-167",
@@ -4241,7 +4952,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩阵综合计算\n\n矩阵综合计算的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0167"
+    ]
   },
   {
     "id": "la-lesson-168",
@@ -4262,7 +4977,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方程组与向量综合题\n\n方程组与向量综合题的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0168"
+    ]
   },
   {
     "id": "la-lesson-169",
@@ -4283,7 +5002,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值与矩阵综合\n\n特征值与矩阵综合的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0169"
+    ]
   },
   {
     "id": "la-lesson-170",
@@ -4304,7 +5027,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型与矩阵综合\n\n二次型与矩阵综合的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0170"
+    ]
   },
   {
     "id": "la-lesson-171",
@@ -4325,7 +5052,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数建模题\n\n线性代数建模题的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0171"
+    ]
   },
   {
     "id": "la-lesson-172",
@@ -4346,7 +5077,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数知识体系总结\n\n线性代数知识体系总结的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0172"
+    ]
   },
   {
     "id": "la-lesson-173",
@@ -4367,7 +5102,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式与矩阵核心公式\n\n行列式与矩阵核心公式的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0173"
+    ]
   },
   {
     "id": "la-lesson-174",
@@ -4388,7 +5127,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方程组与向量核心定理\n\n方程组与向量核心定理的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0174"
+    ]
   },
   {
     "id": "la-lesson-175",
@@ -4409,7 +5152,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 特征值核心方法\n\n特征值核心方法的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0175"
+    ]
   },
   {
     "id": "la-lesson-176",
@@ -4430,7 +5177,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二次型核心判定方法\n\n二次型核心判定方法的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0176"
+    ]
   },
   {
     "id": "la-lesson-177",
@@ -4451,7 +5202,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研真题精讲一\n\n考研真题精讲一的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0177"
+    ]
   },
   {
     "id": "la-lesson-178",
@@ -4472,7 +5227,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研真题精讲二\n\n考研真题精讲二的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0178"
+    ]
   },
   {
     "id": "la-lesson-179",
@@ -4493,7 +5252,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期末模拟测试三\n\n期末模拟测试三的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0179"
+    ]
   },
   {
     "id": "la-lesson-180",
@@ -4514,7 +5277,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线代高频考点\n\n线代高频考点的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0180"
+    ]
   },
   {
     "id": "la-lesson-181",
@@ -4535,7 +5302,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前最后一练\n\n考前最后一练的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0181"
+    ]
   },
   {
     "id": "la-lesson-182",
@@ -4556,7 +5327,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数在计算机图形学中\n\n线性代数在计算机图形学中的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0182"
+    ]
   },
   {
     "id": "la-lesson-183",
@@ -4577,7 +5352,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线性代数在密码学中\n\n线性代数在密码学中的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0183"
+    ]
   },
   {
     "id": "la-lesson-184",
@@ -4598,7 +5377,11 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 行列式与特征值的关系\n\n行列式与特征值的关系的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0184"
+    ]
   },
   {
     "id": "la-lesson-185",
@@ -4619,6 +5402,10 @@
       "线性代数"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 范德蒙行列式的应用\n\n范德蒙行列式的应用的讲义内容。",
+    "knowledgePoints": [
+      "la-kp-0185"
+    ]
   }
 ]
